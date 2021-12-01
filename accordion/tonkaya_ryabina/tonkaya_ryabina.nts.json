@@ -3,2327 +3,5431 @@
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 60,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 0,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 64,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 0,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 69,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 0,
   "noteType" : "LEFT_HAND_BASS",
   "noteValue" : 45,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 392,
+  "noteType" : "LEFT_HAND_BASS",
+  "noteValue" : 45,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 413,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "Am",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 785,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 60,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 785,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 64,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 785,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 69,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+} ], [ {
+  "millisecond" : 806,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "Am",
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 827,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 64,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 827,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 69,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 827,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 72,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 827,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "Am",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 1220,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 64,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 1220,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 69,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 1220,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 72,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 1220,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "Am",
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 1241,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 69,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 1241,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 72,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 1241,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 76,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 1241,
   "noteType" : "LEFT_HAND_BASS",
   "noteValue" : 48,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 1634,
+  "noteType" : "LEFT_HAND_BASS",
+  "noteValue" : 48,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 1655,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "Am",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 2027,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 69,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 2027,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 72,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 2027,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 76,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+} ], [ {
+  "millisecond" : 2047,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "Am",
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 2068,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 69,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 2068,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 74,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 2068,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 77,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 2068,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "Am",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 2461,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 69,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 2461,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 74,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 2461,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 77,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 2461,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "Am",
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 2482,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 65,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 2482,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 69,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 2482,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 76,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 2482,
   "noteType" : "LEFT_HAND_BASS",
   "noteValue" : 50,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 2875,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 65,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 2875,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 69,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 2875,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 76,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 2875,
+  "noteType" : "LEFT_HAND_BASS",
+  "noteValue" : 50,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 2896,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 65,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 2896,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 69,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 2896,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 74,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 2896,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "Dm",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 3289,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "Dm",
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 3310,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "Dm",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 3682,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 65,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 3682,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 69,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 3682,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 74,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+} ], [ {
+  "millisecond" : 3703,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "Dm",
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 3724,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 77,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 3724,
   "noteType" : "LEFT_HAND_BASS",
   "noteValue" : 41,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 3919,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 77,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 3931,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 76,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 4116,
+  "noteType" : "LEFT_HAND_BASS",
+  "noteValue" : 41,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+} ], [ {
+  "millisecond" : 4126,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 76,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 4137,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 74,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 4137,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "Dm",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 4333,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 74,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 4344,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 72,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 4530,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "Dm",
+  "finger" : 0,
+  "noteState" : "OFF"
+} ], [ {
+  "millisecond" : 4540,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 72,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 4551,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 71,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 4551,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "Dm",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 4747,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 71,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 4758,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 69,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 4944,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "Dm",
+  "finger" : 0,
+  "noteState" : "OFF"
+} ], [ {
+  "millisecond" : 4954,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 69,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 4965,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 68,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 4965,
   "noteType" : "LEFT_HAND_BASS",
   "noteValue" : 52,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 5358,
+  "noteType" : "LEFT_HAND_BASS",
+  "noteValue" : 52,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 5379,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "E7",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 5751,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 68,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+} ], [ {
+  "millisecond" : 5771,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "E7",
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 5793,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 68,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 5793,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 71,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 5793,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "E7",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 6185,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 68,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 6185,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 71,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 6185,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "E7",
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 6206,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 74,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 6206,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 77,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 6206,
   "noteType" : "LEFT_HAND_BASS",
   "noteValue" : 47,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 6599,
+  "noteType" : "LEFT_HAND_BASS",
+  "noteValue" : 47,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 6620,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "E7",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 6992,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 74,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 6992,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 77,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+} ], [ {
+  "millisecond" : 7013,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "E7",
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 7034,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 72,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 7034,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 76,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 7034,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "E7",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 7427,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 72,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 7427,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 76,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 7427,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "E7",
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 7448,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 71,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 7448,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 74,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 7448,
   "noteType" : "LEFT_HAND_BASS",
   "noteValue" : 45,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 7840,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 71,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 7840,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 74,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 7840,
+  "noteType" : "LEFT_HAND_BASS",
+  "noteValue" : 45,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 7862,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 69,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 7862,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 72,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 7862,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "Am",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 8254,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "Am",
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 8275,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "Am",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 8647,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 69,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 8647,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 72,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+} ], [ {
+  "millisecond" : 8668,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "Am",
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 8689,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 69,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 8689,
   "noteType" : "LEFT_HAND_BASS",
   "noteValue" : 52,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 8885,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 69,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 8896,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 68,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 9082,
+  "noteType" : "LEFT_HAND_BASS",
+  "noteValue" : 52,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+} ], [ {
+  "millisecond" : 9092,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 68,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 9103,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 69,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 9103,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "Am",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 9299,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 69,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 9310,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 71,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 9496,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "Am",
+  "finger" : 0,
+  "noteState" : "OFF"
+} ], [ {
+  "millisecond" : 9506,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 71,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 9517,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 72,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 9517,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "Am",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 9712,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 72,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 9724,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 76,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 9909,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "Am",
+  "finger" : 0,
+  "noteState" : "OFF"
+} ], [ {
+  "millisecond" : 9919,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 76,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 9931,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 69,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 9931,
   "noteType" : "LEFT_HAND_BASS",
   "noteValue" : 45,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 10323,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 69,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 10323,
+  "noteType" : "LEFT_HAND_BASS",
+  "noteValue" : 45,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 10344,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 69,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 10344,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 72,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 10344,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "Am",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 10737,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 69,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 10737,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 72,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 10737,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "Am",
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 10758,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 72,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 10758,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 76,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 10758,
   "noteType" : "LEFT_HAND_BASS",
   "noteValue" : 43,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 11151,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 72,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 11151,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 76,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 11151,
+  "noteType" : "LEFT_HAND_BASS",
+  "noteValue" : 43,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 11172,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 69,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 11172,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 72,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 11172,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 81,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 11172,
   "noteType" : "LEFT_HAND_BASS",
   "noteValue" : 41,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 11565,
+  "noteType" : "LEFT_HAND_BASS",
+  "noteValue" : 41,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 11586,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "F",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 11958,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 69,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 11958,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 72,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 11958,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 81,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+} ], [ {
+  "millisecond" : 11978,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "F",
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 12000,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 67,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 12000,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 69,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 12000,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 76,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 12000,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 79,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 12000,
   "noteType" : "LEFT_HAND_BASS",
   "noteValue" : 45,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 12392,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 67,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 12392,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 69,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 12392,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 76,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 12392,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 79,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 12392,
+  "noteType" : "LEFT_HAND_BASS",
+  "noteValue" : 45,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 12413,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 76,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 12413,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 79,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 12413,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 69,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 12413,
   "noteType" : "LEFT_HAND_BASS",
   "noteValue" : 50,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 12806,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 76,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 12806,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 79,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 12806,
+  "noteType" : "LEFT_HAND_BASS",
+  "noteValue" : 50,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 12827,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 74,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 12827,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 77,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 12827,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "Dm",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 } ], [ {
   "millisecond" : 13241,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "Dm",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+}, {
+  "millisecond" : 13241,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "Dm",
+  "finger" : 0,
+  "noteState" : "OFF"
+} ], [ {
+  "millisecond" : 13613,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 74,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 13613,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 77,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 13655,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 69,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+}, {
+  "millisecond" : 13655,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 69,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 }, {
   "millisecond" : 13655,
   "noteType" : "LEFT_HAND_BASS",
   "noteValue" : 41,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+}, {
+  "millisecond" : 13655,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "Dm",
+  "finger" : 0,
+  "noteState" : "OFF"
+} ], [ {
+  "millisecond" : 13850,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 69,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 13862,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 71,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 14047,
+  "noteType" : "LEFT_HAND_BASS",
+  "noteValue" : 41,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+} ], [ {
+  "millisecond" : 14057,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 71,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 14068,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 72,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 14068,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "Dm",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 14264,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 72,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 14275,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 74,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 14461,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "Dm",
+  "finger" : 0,
+  "noteState" : "OFF"
+} ], [ {
+  "millisecond" : 14471,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 74,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 14482,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 76,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 14482,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "Dm",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 14678,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 76,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 14689,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 77,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 14875,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "Dm",
+  "finger" : 0,
+  "noteState" : "OFF"
+} ], [ {
+  "millisecond" : 14885,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 77,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 14896,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 72,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 14896,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 76,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 14896,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 79,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 14896,
   "noteType" : "LEFT_HAND_BASS",
   "noteValue" : 48,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 15289,
+  "noteType" : "LEFT_HAND_BASS",
+  "noteValue" : 48,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 15310,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "C",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 15682,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 72,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 15682,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 76,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 15682,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 79,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+} ], [ {
+  "millisecond" : 15703,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "C",
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 15724,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 74,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 15724,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 77,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 15724,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 81,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 15724,
   "noteType" : "LEFT_HAND_BASS",
   "noteValue" : 50,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 16116,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 74,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 16116,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 77,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 16116,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 81,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 16116,
+  "noteType" : "LEFT_HAND_BASS",
+  "noteValue" : 50,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 16137,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 72,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 16137,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 76,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 16137,
   "noteType" : "LEFT_HAND_BASS",
   "noteValue" : 52,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 16530,
+  "noteType" : "LEFT_HAND_BASS",
+  "noteValue" : 52,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 16551,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "E7",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 16923,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 72,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 16923,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 76,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+} ], [ {
+  "millisecond" : 16944,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "E7",
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 16965,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 71,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 16965,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 74,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 16965,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "E7",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 17358,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 71,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 17358,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 74,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 17358,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "E7",
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 17379,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 72,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 17379,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 76,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 17379,
   "noteType" : "LEFT_HAND_BASS",
   "noteValue" : 45,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 17771,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 72,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 17771,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 76,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 17771,
+  "noteType" : "LEFT_HAND_BASS",
+  "noteValue" : 45,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 17793,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 69,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 17793,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "Am",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 18185,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "Am",
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 18206,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "Am",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 18578,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 69,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+} ], [ {
+  "millisecond" : 18599,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "Am",
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 18620,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 64,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 18620,
   "noteType" : "LEFT_HAND_BASS",
   "noteValue" : 52,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 19013,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 64,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 19013,
+  "noteType" : "LEFT_HAND_BASS",
+  "noteValue" : 52,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 19034,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 72,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 19034,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 68,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 19034,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "E7",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 19427,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 72,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 19427,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "E7",
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 19448,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 71,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 19448,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "E7",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 19820,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 68,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+} ], [ {
+  "millisecond" : 19840,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 71,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 19840,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "E7",
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 19862,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 69,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 19862,
   "noteType" : "LEFT_HAND_BASS",
   "noteValue" : 45,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 20254,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 69,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 20254,
+  "noteType" : "LEFT_HAND_BASS",
+  "noteValue" : 45,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 20275,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 69,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 20275,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 72,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 20275,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "Am",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 20668,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 69,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 20668,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 72,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 20668,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "Am",
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 20689,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 72,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 20689,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 76,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 20689,
   "noteType" : "LEFT_HAND_BASS",
   "noteValue" : 43,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 21082,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 72,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 21082,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 76,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 21082,
+  "noteType" : "LEFT_HAND_BASS",
+  "noteValue" : 43,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 21103,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 69,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 21103,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 72,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 21103,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 81,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 21103,
   "noteType" : "LEFT_HAND_BASS",
   "noteValue" : 41,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 21496,
+  "noteType" : "LEFT_HAND_BASS",
+  "noteValue" : 41,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 21517,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "F",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 21889,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 69,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 21889,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 72,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 21889,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 81,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+} ], [ {
+  "millisecond" : 21909,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "F",
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 21931,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 67,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 21931,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 69,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 21931,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 76,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 21931,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 79,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 21931,
   "noteType" : "LEFT_HAND_BASS",
   "noteValue" : 45,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 22323,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 67,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 22323,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 69,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 22323,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 76,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 22323,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 79,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 22323,
+  "noteType" : "LEFT_HAND_BASS",
+  "noteValue" : 45,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 22344,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 76,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 22344,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 79,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 22344,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 69,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 22344,
   "noteType" : "LEFT_HAND_BASS",
   "noteValue" : 50,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 22737,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 76,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 22737,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 79,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 22737,
+  "noteType" : "LEFT_HAND_BASS",
+  "noteValue" : 50,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 22758,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 74,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 22758,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 77,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 22758,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "Dm",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 } ], [ {
   "millisecond" : 23172,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "Dm",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+}, {
+  "millisecond" : 23172,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "Dm",
+  "finger" : 0,
+  "noteState" : "OFF"
+} ], [ {
+  "millisecond" : 23544,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 74,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 23544,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 77,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 23586,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 69,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+}, {
+  "millisecond" : 23586,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 69,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 }, {
   "millisecond" : 23586,
   "noteType" : "LEFT_HAND_BASS",
   "noteValue" : 41,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+}, {
+  "millisecond" : 23586,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "Dm",
+  "finger" : 0,
+  "noteState" : "OFF"
+} ], [ {
+  "millisecond" : 23781,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 69,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 23793,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 71,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 23978,
+  "noteType" : "LEFT_HAND_BASS",
+  "noteValue" : 41,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+} ], [ {
+  "millisecond" : 23988,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 71,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 24000,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 72,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 24000,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "Dm",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 24195,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 72,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 24206,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 74,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 24392,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "Dm",
+  "finger" : 0,
+  "noteState" : "OFF"
+} ], [ {
+  "millisecond" : 24402,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 74,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 24413,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 76,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 24413,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "Dm",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 24609,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 76,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 24620,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 77,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 24806,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "Dm",
+  "finger" : 0,
+  "noteState" : "OFF"
+} ], [ {
+  "millisecond" : 24816,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 77,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 24827,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 72,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 24827,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 76,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 24827,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 79,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 24827,
   "noteType" : "LEFT_HAND_BASS",
   "noteValue" : 48,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 25220,
+  "noteType" : "LEFT_HAND_BASS",
+  "noteValue" : 48,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 25241,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "C",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 25613,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 72,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 25613,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 76,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 25613,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 79,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+} ], [ {
+  "millisecond" : 25634,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "C",
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 25655,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 74,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 25655,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 77,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 25655,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 81,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 25655,
   "noteType" : "LEFT_HAND_BASS",
   "noteValue" : 50,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 26047,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 74,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 26047,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 77,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 26047,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 81,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 26047,
+  "noteType" : "LEFT_HAND_BASS",
+  "noteValue" : 50,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 26068,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 72,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 26068,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 76,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 26068,
   "noteType" : "LEFT_HAND_BASS",
   "noteValue" : 52,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 26461,
+  "noteType" : "LEFT_HAND_BASS",
+  "noteValue" : 52,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 26482,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "E7",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 26854,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 72,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 26854,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 76,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+} ], [ {
+  "millisecond" : 26875,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "E7",
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 26896,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 71,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 26896,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 74,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 26896,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "E7",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 27289,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 71,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 27289,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 74,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 27289,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "E7",
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 27310,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 72,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 27310,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 76,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 27310,
   "noteType" : "LEFT_HAND_BASS",
   "noteValue" : 45,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 27703,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 72,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 27703,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 76,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 27703,
+  "noteType" : "LEFT_HAND_BASS",
+  "noteValue" : 45,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 27724,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 69,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 27724,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 81,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 27724,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "Am",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 28116,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "Am",
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 28137,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "Am",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 28530,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "Am",
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 28551,
   "noteType" : "LEFT_HAND_BASS",
   "noteValue" : 52,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 28944,
+  "noteType" : "LEFT_HAND_BASS",
+  "noteValue" : 52,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 28965,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "Am",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 29358,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "Am",
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 29379,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "Am",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 29730,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 69,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 29730,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 81,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+} ], [ {
+  "millisecond" : 29771,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "Am",
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 29793,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 69,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 29793,
   "noteType" : "LEFT_HAND_BASS",
   "noteValue" : 45,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 29988,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 69,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 30000,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 68,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 30185,
+  "noteType" : "LEFT_HAND_BASS",
+  "noteValue" : 45,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+} ], [ {
+  "millisecond" : 30195,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 68,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 30206,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 69,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 30206,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "Am",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 30402,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 69,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 30413,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 71,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 30599,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "Am",
+  "finger" : 0,
+  "noteState" : "OFF"
+} ], [ {
+  "millisecond" : 30609,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 71,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 30620,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 72,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 30620,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "Am",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 30816,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 72,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 30827,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 74,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 31013,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "Am",
+  "finger" : 0,
+  "noteState" : "OFF"
+} ], [ {
+  "millisecond" : 31023,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 74,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 31034,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 76,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 31034,
   "noteType" : "LEFT_HAND_BASS",
   "noteValue" : 48,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 31230,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 76,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 31241,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 71,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 31427,
+  "noteType" : "LEFT_HAND_BASS",
+  "noteValue" : 48,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+} ], [ {
+  "millisecond" : 31437,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 71,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 31448,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 72,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 31448,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "Am",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 31643,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 72,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 31655,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 74,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 31840,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "Am",
+  "finger" : 0,
+  "noteState" : "OFF"
+} ], [ {
+  "millisecond" : 31850,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 74,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 31862,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 76,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 31862,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "Am",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 32057,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 76,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 32068,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 77,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 32254,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "Am",
+  "finger" : 0,
+  "noteState" : "OFF"
+} ], [ {
+  "millisecond" : 32264,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 77,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 32275,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 65,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 32275,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 69,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 32275,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 76,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 32275,
   "noteType" : "LEFT_HAND_BASS",
   "noteValue" : 50,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 32668,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 65,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 32668,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 69,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 32668,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 76,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 32668,
+  "noteType" : "LEFT_HAND_BASS",
+  "noteValue" : 50,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 32689,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 65,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 32689,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 69,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 32689,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 74,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 32689,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "Dm",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 33082,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "Dm",
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 33103,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "Dm",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 33475,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 65,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 33475,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 69,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 33475,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 74,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+} ], [ {
+  "millisecond" : 33496,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "Dm",
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 33517,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 77,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 33517,
   "noteType" : "LEFT_HAND_BASS",
   "noteValue" : 41,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 33712,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 77,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 33724,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 76,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 33909,
+  "noteType" : "LEFT_HAND_BASS",
+  "noteValue" : 41,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+} ], [ {
+  "millisecond" : 33919,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 76,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 33931,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 74,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 33931,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "Dm",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 34126,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 74,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 34137,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 72,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 34323,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "Dm",
+  "finger" : 0,
+  "noteState" : "OFF"
+} ], [ {
+  "millisecond" : 34333,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 72,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 34344,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 71,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 34344,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "Dm",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 34540,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 71,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 34551,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 69,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 34737,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "Dm",
+  "finger" : 0,
+  "noteState" : "OFF"
+} ], [ {
+  "millisecond" : 34747,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 69,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 34758,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 68,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 34758,
   "noteType" : "LEFT_HAND_BASS",
   "noteValue" : 52,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 34954,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 68,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 34965,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 64,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 35151,
+  "noteType" : "LEFT_HAND_BASS",
+  "noteValue" : 52,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+} ], [ {
+  "millisecond" : 35161,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 64,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 35172,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 68,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 35172,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "E7",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 35368,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 68,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 35379,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 71,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 35565,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "E7",
+  "finger" : 0,
+  "noteState" : "OFF"
+} ], [ {
+  "millisecond" : 35575,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 71,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 35586,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 74,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 35586,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "E7",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 35781,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 74,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 35793,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 76,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 35978,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "E7",
+  "finger" : 0,
+  "noteState" : "OFF"
+} ], [ {
+  "millisecond" : 35988,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 76,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 36000,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 77,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 36000,
   "noteType" : "LEFT_HAND_BASS",
   "noteValue" : 47,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 36195,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 77,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 36206,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 74,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 36392,
+  "noteType" : "LEFT_HAND_BASS",
+  "noteValue" : 47,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+} ], [ {
+  "millisecond" : 36402,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 74,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 36413,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 71,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 36413,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "E7",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 36609,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 71,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 36620,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 72,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 36806,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "E7",
+  "finger" : 0,
+  "noteState" : "OFF"
+} ], [ {
+  "millisecond" : 36816,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 72,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 36827,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 74,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 36827,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "E7",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 37023,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 74,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 37034,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 76,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 37220,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "E7",
+  "finger" : 0,
+  "noteState" : "OFF"
+} ], [ {
+  "millisecond" : 37230,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 76,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 37241,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 71,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 37241,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 74,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 37241,
   "noteType" : "LEFT_HAND_BASS",
   "noteValue" : 45,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 37634,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 71,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 37634,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 74,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 37634,
+  "noteType" : "LEFT_HAND_BASS",
+  "noteValue" : 45,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 37655,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 69,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 37655,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 72,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 37655,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "Am",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 38047,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "Am",
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 38068,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "Am",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 38440,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 69,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 38440,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 72,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+} ], [ {
+  "millisecond" : 38461,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "Am",
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 38482,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 69,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 38482,
   "noteType" : "LEFT_HAND_BASS",
   "noteValue" : 52,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 38678,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 69,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 38689,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 68,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 38875,
+  "noteType" : "LEFT_HAND_BASS",
+  "noteValue" : 52,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+} ], [ {
+  "millisecond" : 38885,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 68,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 38896,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 69,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 38896,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "Am",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 39092,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 69,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 39103,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 71,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 39289,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "Am",
+  "finger" : 0,
+  "noteState" : "OFF"
+} ], [ {
+  "millisecond" : 39299,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 71,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 39310,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 72,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 39310,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "Am",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 39506,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 72,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 39517,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 76,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 39703,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "Am",
+  "finger" : 0,
+  "noteState" : "OFF"
+} ], [ {
+  "millisecond" : 39712,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 76,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 39724,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 69,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 39724,
   "noteType" : "LEFT_HAND_BASS",
   "noteValue" : 45,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 40116,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 69,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 40116,
+  "noteType" : "LEFT_HAND_BASS",
+  "noteValue" : 45,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 40137,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 69,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 40137,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 72,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 40137,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "Am",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 40530,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 69,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 40530,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 72,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 40530,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "Am",
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 40551,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 72,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 40551,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 76,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 40551,
   "noteType" : "LEFT_HAND_BASS",
   "noteValue" : 43,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 40944,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 72,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 40944,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 76,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 40944,
+  "noteType" : "LEFT_HAND_BASS",
+  "noteValue" : 43,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 40965,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 81,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 40965,
   "noteType" : "LEFT_HAND_BASS",
   "noteValue" : 41,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 } ], [ {
   "millisecond" : 41172,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 69,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 41358,
+  "noteType" : "LEFT_HAND_BASS",
+  "noteValue" : 41,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+} ], [ {
+  "millisecond" : 41368,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 69,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 41379,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 72,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 41379,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "F",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 41575,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 72,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 41586,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 77,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 41771,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "F",
+  "finger" : 0,
+  "noteState" : "OFF"
+} ], [ {
+  "millisecond" : 41781,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 77,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 41793,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 67,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 41793,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 69,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 41793,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 76,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 41793,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 79,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+}, {
+  "millisecond" : 41793,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 81,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 }, {
   "millisecond" : 41793,
   "noteType" : "LEFT_HAND_BASS",
   "noteValue" : 45,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 42185,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 67,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 42185,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 69,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 42185,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 76,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 42185,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 79,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 42185,
+  "noteType" : "LEFT_HAND_BASS",
+  "noteValue" : 45,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 42206,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 76,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 42206,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 79,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 42206,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 69,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 42206,
   "noteType" : "LEFT_HAND_BASS",
   "noteValue" : 50,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 42599,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 76,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 42599,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 79,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 42599,
+  "noteType" : "LEFT_HAND_BASS",
+  "noteValue" : 50,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 42620,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 74,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 42620,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 77,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 42620,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "Dm",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 43013,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "Dm",
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 43034,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "Dm",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 43406,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 74,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 43406,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 77,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+} ], [ {
+  "millisecond" : 43427,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "Dm",
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 43448,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 69,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+}, {
+  "millisecond" : 43448,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 69,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 }, {
   "millisecond" : 43448,
   "noteType" : "LEFT_HAND_BASS",
   "noteValue" : 41,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 43643,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 69,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 43655,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 71,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 43840,
+  "noteType" : "LEFT_HAND_BASS",
+  "noteValue" : 41,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+} ], [ {
+  "millisecond" : 43850,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 71,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 43862,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 72,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 43862,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "Dm",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 44057,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 72,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 44068,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 74,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 44254,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "Dm",
+  "finger" : 0,
+  "noteState" : "OFF"
+} ], [ {
+  "millisecond" : 44264,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 74,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 44275,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 76,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 44275,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "Dm",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 44471,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 76,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 44482,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 77,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 44668,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "Dm",
+  "finger" : 0,
+  "noteState" : "OFF"
+} ], [ {
+  "millisecond" : 44678,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 77,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 44689,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 72,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 44689,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 76,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 44689,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 79,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 44689,
   "noteType" : "LEFT_HAND_BASS",
   "noteValue" : 48,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 45082,
+  "noteType" : "LEFT_HAND_BASS",
+  "noteValue" : 48,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 45103,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "C",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 45475,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 72,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 45475,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 76,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 45475,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 79,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+} ], [ {
+  "millisecond" : 45496,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "C",
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 45517,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 74,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 45517,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 77,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 45517,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 81,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 45517,
   "noteType" : "LEFT_HAND_BASS",
   "noteValue" : 50,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 45909,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 74,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 45909,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 77,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 45909,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 81,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 45909,
+  "noteType" : "LEFT_HAND_BASS",
+  "noteValue" : 50,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 45931,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 72,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 45931,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 76,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 45931,
   "noteType" : "LEFT_HAND_BASS",
   "noteValue" : 52,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 46323,
+  "noteType" : "LEFT_HAND_BASS",
+  "noteValue" : 52,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 46344,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "E7",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 46716,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 72,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 46716,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 76,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+} ], [ {
+  "millisecond" : 46737,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "E7",
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 46758,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 71,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 46758,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 74,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 46758,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "E7",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 47151,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 71,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 47151,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 74,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 47151,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "E7",
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 47172,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 72,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 47172,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 76,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 47172,
   "noteType" : "LEFT_HAND_BASS",
   "noteValue" : 45,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 47565,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 72,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 47565,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 76,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 47565,
+  "noteType" : "LEFT_HAND_BASS",
+  "noteValue" : 45,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 47586,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 69,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 47586,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "Am",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 47978,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "Am",
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 48000,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "Am",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 48371,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 69,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+} ], [ {
+  "millisecond" : 48392,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "Am",
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 48413,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 64,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 48413,
   "noteType" : "LEFT_HAND_BASS",
   "noteValue" : 52,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 48609,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 64,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 48620,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 66,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 48806,
+  "noteType" : "LEFT_HAND_BASS",
+  "noteValue" : 52,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+} ], [ {
+  "millisecond" : 48816,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 66,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 48827,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 68,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 48827,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "E7",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 49023,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 68,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 49034,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 69,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 49220,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "E7",
+  "finger" : 0,
+  "noteState" : "OFF"
+} ], [ {
+  "millisecond" : 49230,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 69,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 49241,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 72,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 49241,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "E7",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 49437,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 72,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 49448,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 71,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 49634,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "E7",
+  "finger" : 0,
+  "noteState" : "OFF"
+} ], [ {
+  "millisecond" : 49643,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 71,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 49655,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 69,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 49655,
   "noteType" : "LEFT_HAND_BASS",
   "noteValue" : 45,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 50047,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 69,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 50047,
+  "noteType" : "LEFT_HAND_BASS",
+  "noteValue" : 45,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 50068,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 69,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 50068,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 72,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 50068,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "Am",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 50461,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 69,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 50461,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 72,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 50461,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "Am",
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 50482,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 72,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 50482,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 76,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 50482,
   "noteType" : "LEFT_HAND_BASS",
   "noteValue" : 43,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 50875,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 72,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 50875,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 76,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 50875,
+  "noteType" : "LEFT_HAND_BASS",
+  "noteValue" : 43,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 50896,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 81,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 50896,
   "noteType" : "LEFT_HAND_BASS",
   "noteValue" : 41,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 } ], [ {
   "millisecond" : 51103,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 69,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 51289,
+  "noteType" : "LEFT_HAND_BASS",
+  "noteValue" : 41,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+} ], [ {
+  "millisecond" : 51299,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 69,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 51310,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 72,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 51310,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "F",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 51506,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 72,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 51517,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 77,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 51703,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "F",
+  "finger" : 0,
+  "noteState" : "OFF"
+} ], [ {
+  "millisecond" : 51712,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 77,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 51724,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 67,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 51724,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 69,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 51724,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 76,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 51724,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 79,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+}, {
+  "millisecond" : 51724,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 81,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 }, {
   "millisecond" : 51724,
   "noteType" : "LEFT_HAND_BASS",
   "noteValue" : 45,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 52116,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 67,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 52116,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 69,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 52116,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 76,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 52116,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 79,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 52116,
+  "noteType" : "LEFT_HAND_BASS",
+  "noteValue" : 45,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 52137,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 76,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 52137,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 79,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 52137,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 69,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 52137,
   "noteType" : "LEFT_HAND_BASS",
   "noteValue" : 50,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 52530,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 76,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 52530,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 79,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 52530,
+  "noteType" : "LEFT_HAND_BASS",
+  "noteValue" : 50,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 52551,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 74,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 52551,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 77,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 52551,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "Dm",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 52944,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "Dm",
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 52965,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "Dm",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 53337,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 74,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 53337,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 77,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+} ], [ {
+  "millisecond" : 53358,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "Dm",
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 53379,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 69,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+}, {
+  "millisecond" : 53379,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 69,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 }, {
   "millisecond" : 53379,
   "noteType" : "LEFT_HAND_BASS",
   "noteValue" : 41,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 53575,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 69,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 53586,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 71,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 53771,
+  "noteType" : "LEFT_HAND_BASS",
+  "noteValue" : 41,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+} ], [ {
+  "millisecond" : 53781,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 71,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 53793,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 72,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 53793,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "Dm",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 53988,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 72,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 54000,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 74,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 54185,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "Dm",
+  "finger" : 0,
+  "noteState" : "OFF"
+} ], [ {
+  "millisecond" : 54195,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 74,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 54206,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 76,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 54206,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "Dm",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 54402,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 76,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 54413,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 77,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 54599,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "Dm",
+  "finger" : 0,
+  "noteState" : "OFF"
+} ], [ {
+  "millisecond" : 54609,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 77,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 54620,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 72,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 54620,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 76,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 54620,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 79,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 54620,
   "noteType" : "LEFT_HAND_BASS",
   "noteValue" : 48,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 55013,
+  "noteType" : "LEFT_HAND_BASS",
+  "noteValue" : 48,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 55034,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "C",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 55406,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 72,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 55406,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 76,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 55406,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 79,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+} ], [ {
+  "millisecond" : 55427,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "C",
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 55448,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 74,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 55448,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 77,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 55448,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 81,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 55448,
   "noteType" : "LEFT_HAND_BASS",
   "noteValue" : 50,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 55840,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 74,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 55840,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 77,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 55840,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 81,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 55840,
+  "noteType" : "LEFT_HAND_BASS",
+  "noteValue" : 50,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 55862,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 72,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 55862,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 76,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 55862,
   "noteType" : "LEFT_HAND_BASS",
   "noteValue" : 52,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 56254,
+  "noteType" : "LEFT_HAND_BASS",
+  "noteValue" : 52,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 56275,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "E7",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 56647,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 72,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 56647,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 76,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+} ], [ {
+  "millisecond" : 56668,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "E7",
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 56689,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 71,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 56689,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 74,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 56689,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "E7",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 57082,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 71,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 57082,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 74,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 57082,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "E7",
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 57103,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 72,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 57103,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 76,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 57103,
   "noteType" : "LEFT_HAND_BASS",
   "noteValue" : 45,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 57496,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 72,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 57496,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 76,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 57496,
+  "noteType" : "LEFT_HAND_BASS",
+  "noteValue" : 45,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 57517,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 69,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 57517,
   "noteType" : "RIGHT_HAND_NOTE",
   "noteValue" : 81,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 57517,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "Am",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 57909,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "Am",
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 57931,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "Am",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 58323,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "Am",
+  "finger" : 0,
+  "noteState" : "OFF"
 } ], [ {
   "millisecond" : 58344,
   "noteType" : "LEFT_HAND_CHORD",
   "noteValue" : -1,
   "chordValue" : "Am",
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
 }, {
   "millisecond" : 58344,
   "noteType" : "LEFT_HAND_BASS",
   "noteValue" : 45,
   "chordValue" : null,
-  "finger" : 0
+  "finger" : 0,
+  "noteState" : "ON"
+} ], [ {
+  "millisecond" : 59523,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 69,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 59523,
+  "noteType" : "RIGHT_HAND_NOTE",
+  "noteValue" : 81,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 59523,
+  "noteType" : "LEFT_HAND_CHORD",
+  "noteValue" : -1,
+  "chordValue" : "Am",
+  "finger" : 0,
+  "noteState" : "OFF"
+}, {
+  "millisecond" : 59523,
+  "noteType" : "LEFT_HAND_BASS",
+  "noteValue" : 45,
+  "chordValue" : null,
+  "finger" : 0,
+  "noteState" : "OFF"
 } ] ]
