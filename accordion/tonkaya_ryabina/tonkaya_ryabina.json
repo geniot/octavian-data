@@ -8769,7 +8769,7 @@
     "notesOff" : null
   }, {
     "timestamp" : 59523,
-    "duration" : 36,
+    "duration" : 35,
     "offsetX" : 8521,
     "notesOn" : null,
     "notesOff" : [ {
@@ -8806,7 +8806,6 @@
       "finger" : 0
     } ]
   } ],
-  "duration" : 59559,
   "sheetWidth" : 8525,
   "sheetHeight" : 300
 }
