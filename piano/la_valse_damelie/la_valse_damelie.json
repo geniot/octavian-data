@@ -22,6 +22,20 @@
     } ],
     "notesOff" : null
   }, {
+    "timestamp" : 1499,
+    "duration" : 0,
+    "offsetX" : 256,
+    "notesOn" : null,
+    "notesOff" : [ {
+      "duration" : 0,
+      "noteType" : "LEFT_HAND_BASS",
+      "noteState" : "OFF",
+      "noteValue" : 50,
+      "noteName" : null,
+      "chordName" : null,
+      "finger" : 0
+    } ]
+  }, {
     "timestamp" : 1500,
     "duration" : 1000,
     "offsetX" : 257,
@@ -42,11 +56,17 @@
       "chordName" : null,
       "finger" : 0
     } ],
+    "notesOff" : null
+  }, {
+    "timestamp" : 2499,
+    "duration" : 0,
+    "offsetX" : 348,
+    "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
-      "noteType" : "LEFT_HAND_BASS",
+      "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "OFF",
-      "noteValue" : 50,
+      "noteValue" : 74,
       "noteName" : null,
       "chordName" : null,
       "finger" : 0
@@ -64,11 +84,33 @@
       "chordName" : null,
       "finger" : 0
     } ],
+    "notesOff" : null
+  }, {
+    "timestamp" : 2999,
+    "duration" : 0,
+    "offsetX" : 421,
+    "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "OFF",
-      "noteValue" : 74,
+      "noteValue" : 72,
+      "noteName" : null,
+      "chordName" : null,
+      "finger" : 0
+    }, {
+      "duration" : 0,
+      "noteType" : "LEFT_HAND_BASS",
+      "noteState" : "OFF",
+      "noteValue" : 53,
+      "noteName" : null,
+      "chordName" : null,
+      "finger" : 0
+    }, {
+      "duration" : 0,
+      "noteType" : "LEFT_HAND_BASS",
+      "noteState" : "OFF",
+      "noteValue" : 57,
       "noteName" : null,
       "chordName" : null,
       "finger" : 0
@@ -94,11 +136,17 @@
       "chordName" : null,
       "finger" : 0
     } ],
+    "notesOff" : null
+  }, {
+    "timestamp" : 4499,
+    "duration" : 0,
+    "offsetX" : 551,
+    "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "OFF",
-      "noteValue" : 72,
+      "noteValue" : 71,
       "noteName" : null,
       "chordName" : null,
       "finger" : 0
@@ -106,15 +154,7 @@
       "duration" : 0,
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "OFF",
-      "noteValue" : 53,
-      "noteName" : null,
-      "chordName" : null,
-      "finger" : 0
-    }, {
-      "duration" : 0,
-      "noteType" : "LEFT_HAND_BASS",
-      "noteState" : "OFF",
-      "noteValue" : 57,
+      "noteValue" : 45,
       "noteName" : null,
       "chordName" : null,
       "finger" : 0
@@ -148,11 +188,17 @@
       "chordName" : null,
       "finger" : 0
     } ],
+    "notesOff" : null
+  }, {
+    "timestamp" : 5999,
+    "duration" : 0,
+    "offsetX" : 682,
+    "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "OFF",
-      "noteValue" : 71,
+      "noteValue" : 69,
       "noteName" : null,
       "chordName" : null,
       "finger" : 0
@@ -160,7 +206,15 @@
       "duration" : 0,
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "OFF",
-      "noteValue" : 45,
+      "noteValue" : 48,
+      "noteName" : null,
+      "chordName" : null,
+      "finger" : 0
+    }, {
+      "duration" : 0,
+      "noteType" : "LEFT_HAND_BASS",
+      "noteState" : "OFF",
+      "noteValue" : 52,
       "noteName" : null,
       "chordName" : null,
       "finger" : 0
@@ -186,11 +240,17 @@
       "chordName" : null,
       "finger" : 0
     } ],
+    "notesOff" : null
+  }, {
+    "timestamp" : 7498,
+    "duration" : 0,
+    "offsetX" : 812,
+    "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "OFF",
-      "noteValue" : 69,
+      "noteValue" : 74,
       "noteName" : null,
       "chordName" : null,
       "finger" : 0
@@ -198,15 +258,7 @@
       "duration" : 0,
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "OFF",
-      "noteValue" : 48,
-      "noteName" : null,
-      "chordName" : null,
-      "finger" : 0
-    }, {
-      "duration" : 0,
-      "noteType" : "LEFT_HAND_BASS",
-      "noteState" : "OFF",
-      "noteValue" : 52,
+      "noteValue" : 50,
       "noteName" : null,
       "chordName" : null,
       "finger" : 0
@@ -240,19 +292,17 @@
       "chordName" : null,
       "finger" : 0
     } ],
+    "notesOff" : null
+  }, {
+    "timestamp" : 8499,
+    "duration" : 0,
+    "offsetX" : 904,
+    "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "OFF",
-      "noteValue" : 74,
-      "noteName" : null,
-      "chordName" : null,
-      "finger" : 0
-    }, {
-      "duration" : 0,
-      "noteType" : "LEFT_HAND_BASS",
-      "noteState" : "OFF",
-      "noteValue" : 50,
+      "noteValue" : 76,
       "noteName" : null,
       "chordName" : null,
       "finger" : 0
@@ -270,11 +320,33 @@
       "chordName" : null,
       "finger" : 0
     } ],
+    "notesOff" : null
+  }, {
+    "timestamp" : 8999,
+    "duration" : 0,
+    "offsetX" : 977,
+    "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "OFF",
-      "noteValue" : 76,
+      "noteValue" : 72,
+      "noteName" : null,
+      "chordName" : null,
+      "finger" : 0
+    }, {
+      "duration" : 0,
+      "noteType" : "LEFT_HAND_BASS",
+      "noteState" : "OFF",
+      "noteValue" : 53,
+      "noteName" : null,
+      "chordName" : null,
+      "finger" : 0
+    }, {
+      "duration" : 0,
+      "noteType" : "LEFT_HAND_BASS",
+      "noteState" : "OFF",
+      "noteValue" : 57,
       "noteName" : null,
       "chordName" : null,
       "finger" : 0
@@ -300,11 +372,17 @@
       "chordName" : null,
       "finger" : 0
     } ],
+    "notesOff" : null
+  }, {
+    "timestamp" : 10499,
+    "duration" : 0,
+    "offsetX" : 1107,
+    "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "OFF",
-      "noteValue" : 72,
+      "noteValue" : 71,
       "noteName" : null,
       "chordName" : null,
       "finger" : 0
@@ -312,15 +390,7 @@
       "duration" : 0,
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "OFF",
-      "noteValue" : 53,
-      "noteName" : null,
-      "chordName" : null,
-      "finger" : 0
-    }, {
-      "duration" : 0,
-      "noteType" : "LEFT_HAND_BASS",
-      "noteState" : "OFF",
-      "noteValue" : 57,
+      "noteValue" : 45,
       "noteName" : null,
       "chordName" : null,
       "finger" : 0
@@ -354,44 +424,12 @@
       "chordName" : null,
       "finger" : 0
     } ],
-    "notesOff" : [ {
-      "duration" : 0,
-      "noteType" : "RIGHT_HAND_NOTE",
-      "noteState" : "OFF",
-      "noteValue" : 71,
-      "noteName" : null,
-      "chordName" : null,
-      "finger" : 0
-    }, {
-      "duration" : 0,
-      "noteType" : "LEFT_HAND_BASS",
-      "noteState" : "OFF",
-      "noteValue" : 45,
-      "noteName" : null,
-      "chordName" : null,
-      "finger" : 0
-    } ]
+    "notesOff" : null
   }, {
-    "timestamp" : 12000,
-    "duration" : 1499,
-    "offsetX" : 1238,
-    "notesOn" : [ {
-      "duration" : 2499,
-      "noteType" : "RIGHT_HAND_NOTE",
-      "noteState" : "ON",
-      "noteValue" : 72,
-      "noteName" : "C5",
-      "chordName" : null,
-      "finger" : 0
-    }, {
-      "duration" : 1499,
-      "noteType" : "LEFT_HAND_BASS",
-      "noteState" : "ON",
-      "noteValue" : 53,
-      "noteName" : "F3",
-      "chordName" : null,
-      "finger" : 0
-    } ],
+    "timestamp" : 11999,
+    "duration" : 0,
+    "offsetX" : 1237,
+    "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -418,6 +456,42 @@
       "finger" : 0
     } ]
   }, {
+    "timestamp" : 12000,
+    "duration" : 1499,
+    "offsetX" : 1238,
+    "notesOn" : [ {
+      "duration" : 2499,
+      "noteType" : "RIGHT_HAND_NOTE",
+      "noteState" : "ON",
+      "noteValue" : 72,
+      "noteName" : "C5",
+      "chordName" : null,
+      "finger" : 0
+    }, {
+      "duration" : 1499,
+      "noteType" : "LEFT_HAND_BASS",
+      "noteState" : "ON",
+      "noteValue" : 53,
+      "noteName" : "F3",
+      "chordName" : null,
+      "finger" : 0
+    } ],
+    "notesOff" : null
+  }, {
+    "timestamp" : 13498,
+    "duration" : 0,
+    "offsetX" : 1366,
+    "notesOn" : null,
+    "notesOff" : [ {
+      "duration" : 0,
+      "noteType" : "LEFT_HAND_BASS",
+      "noteState" : "OFF",
+      "noteValue" : 53,
+      "noteName" : null,
+      "chordName" : null,
+      "finger" : 0
+    } ]
+  }, {
     "timestamp" : 13499,
     "duration" : 1000,
     "offsetX" : 1367,
@@ -438,11 +512,17 @@
       "chordName" : null,
       "finger" : 0
     } ],
+    "notesOff" : null
+  }, {
+    "timestamp" : 14498,
+    "duration" : 0,
+    "offsetX" : 1458,
+    "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
-      "noteType" : "LEFT_HAND_BASS",
+      "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "OFF",
-      "noteValue" : 53,
+      "noteValue" : 72,
       "noteName" : null,
       "chordName" : null,
       "finger" : 0
@@ -460,11 +540,33 @@
       "chordName" : null,
       "finger" : 0
     } ],
+    "notesOff" : null
+  }, {
+    "timestamp" : 14998,
+    "duration" : 0,
+    "offsetX" : 1531,
+    "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "OFF",
-      "noteValue" : 72,
+      "noteValue" : 71,
+      "noteName" : null,
+      "chordName" : null,
+      "finger" : 0
+    }, {
+      "duration" : 0,
+      "noteType" : "LEFT_HAND_BASS",
+      "noteState" : "OFF",
+      "noteValue" : 57,
+      "noteName" : null,
+      "chordName" : null,
+      "finger" : 0
+    }, {
+      "duration" : 0,
+      "noteType" : "LEFT_HAND_BASS",
+      "noteState" : "OFF",
+      "noteValue" : 60,
       "noteName" : null,
       "chordName" : null,
       "finger" : 0
@@ -490,27 +592,17 @@
       "chordName" : null,
       "finger" : 0
     } ],
+    "notesOff" : null
+  }, {
+    "timestamp" : 16499,
+    "duration" : 0,
+    "offsetX" : 1659,
+    "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
-      "noteType" : "RIGHT_HAND_NOTE",
-      "noteState" : "OFF",
-      "noteValue" : 71,
-      "noteName" : null,
-      "chordName" : null,
-      "finger" : 0
-    }, {
-      "duration" : 0,
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "OFF",
-      "noteValue" : 57,
-      "noteName" : null,
-      "chordName" : null,
-      "finger" : 0
-    }, {
-      "duration" : 0,
-      "noteType" : "LEFT_HAND_BASS",
-      "noteState" : "OFF",
-      "noteValue" : 60,
+      "noteValue" : 48,
       "noteName" : null,
       "chordName" : null,
       "finger" : 0
@@ -536,11 +628,33 @@
       "chordName" : null,
       "finger" : 0
     } ],
+    "notesOff" : null
+  }, {
+    "timestamp" : 17999,
+    "duration" : 0,
+    "offsetX" : 1789,
+    "notesOn" : null,
     "notesOff" : [ {
+      "duration" : 0,
+      "noteType" : "RIGHT_HAND_NOTE",
+      "noteState" : "OFF",
+      "noteValue" : 64,
+      "noteName" : null,
+      "chordName" : null,
+      "finger" : 0
+    }, {
       "duration" : 0,
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "OFF",
-      "noteValue" : 48,
+      "noteValue" : 52,
+      "noteName" : null,
+      "chordName" : null,
+      "finger" : 0
+    }, {
+      "duration" : 0,
+      "noteType" : "LEFT_HAND_BASS",
+      "noteState" : "OFF",
+      "noteValue" : 55,
       "noteName" : null,
       "chordName" : null,
       "finger" : 0
@@ -566,27 +680,17 @@
       "chordName" : null,
       "finger" : 0
     } ],
+    "notesOff" : null
+  }, {
+    "timestamp" : 19499,
+    "duration" : 0,
+    "offsetX" : 1918,
+    "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
-      "noteType" : "RIGHT_HAND_NOTE",
-      "noteState" : "OFF",
-      "noteValue" : 64,
-      "noteName" : null,
-      "chordName" : null,
-      "finger" : 0
-    }, {
-      "duration" : 0,
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "OFF",
-      "noteValue" : 52,
-      "noteName" : null,
-      "chordName" : null,
-      "finger" : 0
-    }, {
-      "duration" : 0,
-      "noteType" : "LEFT_HAND_BASS",
-      "noteState" : "OFF",
-      "noteValue" : 55,
+      "noteValue" : 53,
       "noteName" : null,
       "chordName" : null,
       "finger" : 0
@@ -612,11 +716,17 @@
       "chordName" : null,
       "finger" : 0
     } ],
+    "notesOff" : null
+  }, {
+    "timestamp" : 19999,
+    "duration" : 0,
+    "offsetX" : 1969,
+    "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
-      "noteType" : "LEFT_HAND_BASS",
+      "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "OFF",
-      "noteValue" : 53,
+      "noteValue" : 72,
       "noteName" : null,
       "chordName" : null,
       "finger" : 0
@@ -634,11 +744,17 @@
       "chordName" : null,
       "finger" : 0
     } ],
+    "notesOff" : null
+  }, {
+    "timestamp" : 20499,
+    "duration" : 0,
+    "offsetX" : 2023,
+    "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "OFF",
-      "noteValue" : 72,
+      "noteValue" : 74,
       "noteName" : null,
       "chordName" : null,
       "finger" : 0
@@ -656,36 +772,12 @@
       "chordName" : null,
       "finger" : 0
     } ],
-    "notesOff" : [ {
-      "duration" : 0,
-      "noteType" : "RIGHT_HAND_NOTE",
-      "noteState" : "OFF",
-      "noteValue" : 74,
-      "noteName" : null,
-      "chordName" : null,
-      "finger" : 0
-    } ]
+    "notesOff" : null
   }, {
-    "timestamp" : 21000,
-    "duration" : 1500,
-    "offsetX" : 2097,
-    "notesOn" : [ {
-      "duration" : 3000,
-      "noteType" : "RIGHT_HAND_NOTE",
-      "noteState" : "ON",
-      "noteValue" : 64,
-      "noteName" : "E4",
-      "chordName" : null,
-      "finger" : 0
-    }, {
-      "duration" : 1500,
-      "noteType" : "LEFT_HAND_BASS",
-      "noteState" : "ON",
-      "noteValue" : 48,
-      "noteName" : "C3",
-      "chordName" : null,
-      "finger" : 0
-    } ],
+    "timestamp" : 20999,
+    "duration" : 0,
+    "offsetX" : 2096,
+    "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -712,6 +804,42 @@
       "finger" : 0
     } ]
   }, {
+    "timestamp" : 21000,
+    "duration" : 1500,
+    "offsetX" : 2097,
+    "notesOn" : [ {
+      "duration" : 3000,
+      "noteType" : "RIGHT_HAND_NOTE",
+      "noteState" : "ON",
+      "noteValue" : 64,
+      "noteName" : "E4",
+      "chordName" : null,
+      "finger" : 0
+    }, {
+      "duration" : 1500,
+      "noteType" : "LEFT_HAND_BASS",
+      "noteState" : "ON",
+      "noteValue" : 48,
+      "noteName" : "C3",
+      "chordName" : null,
+      "finger" : 0
+    } ],
+    "notesOff" : null
+  }, {
+    "timestamp" : 22499,
+    "duration" : 0,
+    "offsetX" : 2224,
+    "notesOn" : null,
+    "notesOff" : [ {
+      "duration" : 0,
+      "noteType" : "LEFT_HAND_BASS",
+      "noteState" : "OFF",
+      "noteValue" : 48,
+      "noteName" : null,
+      "chordName" : null,
+      "finger" : 0
+    } ]
+  }, {
     "timestamp" : 22500,
     "duration" : 1500,
     "offsetX" : 2225,
@@ -732,36 +860,12 @@
       "chordName" : null,
       "finger" : 0
     } ],
-    "notesOff" : [ {
-      "duration" : 0,
-      "noteType" : "LEFT_HAND_BASS",
-      "noteState" : "OFF",
-      "noteValue" : 48,
-      "noteName" : null,
-      "chordName" : null,
-      "finger" : 0
-    } ]
+    "notesOff" : null
   }, {
-    "timestamp" : 24000,
-    "duration" : 1500,
-    "offsetX" : 2355,
-    "notesOn" : [ {
-      "duration" : 2499,
-      "noteType" : "RIGHT_HAND_NOTE",
-      "noteState" : "ON",
-      "noteValue" : 74,
-      "noteName" : "D5",
-      "chordName" : null,
-      "finger" : 0
-    }, {
-      "duration" : 1500,
-      "noteType" : "LEFT_HAND_BASS",
-      "noteState" : "ON",
-      "noteValue" : 50,
-      "noteName" : "D3",
-      "chordName" : null,
-      "finger" : 0
-    } ],
+    "timestamp" : 23999,
+    "duration" : 0,
+    "offsetX" : 2354,
+    "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -788,6 +892,42 @@
       "finger" : 0
     } ]
   }, {
+    "timestamp" : 24000,
+    "duration" : 1500,
+    "offsetX" : 2355,
+    "notesOn" : [ {
+      "duration" : 2499,
+      "noteType" : "RIGHT_HAND_NOTE",
+      "noteState" : "ON",
+      "noteValue" : 74,
+      "noteName" : "D5",
+      "chordName" : null,
+      "finger" : 0
+    }, {
+      "duration" : 1500,
+      "noteType" : "LEFT_HAND_BASS",
+      "noteState" : "ON",
+      "noteValue" : 50,
+      "noteName" : "D3",
+      "chordName" : null,
+      "finger" : 0
+    } ],
+    "notesOff" : null
+  }, {
+    "timestamp" : 25499,
+    "duration" : 0,
+    "offsetX" : 2483,
+    "notesOn" : null,
+    "notesOff" : [ {
+      "duration" : 0,
+      "noteType" : "LEFT_HAND_BASS",
+      "noteState" : "OFF",
+      "noteValue" : 50,
+      "noteName" : null,
+      "chordName" : null,
+      "finger" : 0
+    } ]
+  }, {
     "timestamp" : 25500,
     "duration" : 999,
     "offsetX" : 2484,
@@ -808,11 +948,17 @@
       "chordName" : null,
       "finger" : 0
     } ],
+    "notesOff" : null
+  }, {
+    "timestamp" : 26498,
+    "duration" : 0,
+    "offsetX" : 2574,
+    "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
-      "noteType" : "LEFT_HAND_BASS",
+      "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "OFF",
-      "noteValue" : 50,
+      "noteValue" : 74,
       "noteName" : null,
       "chordName" : null,
       "finger" : 0
@@ -830,11 +976,33 @@
       "chordName" : null,
       "finger" : 0
     } ],
+    "notesOff" : null
+  }, {
+    "timestamp" : 26998,
+    "duration" : 0,
+    "offsetX" : 2648,
+    "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "OFF",
-      "noteValue" : 74,
+      "noteValue" : 72,
+      "noteName" : null,
+      "chordName" : null,
+      "finger" : 0
+    }, {
+      "duration" : 0,
+      "noteType" : "LEFT_HAND_BASS",
+      "noteState" : "OFF",
+      "noteValue" : 53,
+      "noteName" : null,
+      "chordName" : null,
+      "finger" : 0
+    }, {
+      "duration" : 0,
+      "noteType" : "LEFT_HAND_BASS",
+      "noteState" : "OFF",
+      "noteValue" : 57,
       "noteName" : null,
       "chordName" : null,
       "finger" : 0
@@ -860,11 +1028,17 @@
       "chordName" : null,
       "finger" : 0
     } ],
+    "notesOff" : null
+  }, {
+    "timestamp" : 28498,
+    "duration" : 0,
+    "offsetX" : 2778,
+    "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "OFF",
-      "noteValue" : 72,
+      "noteValue" : 71,
       "noteName" : null,
       "chordName" : null,
       "finger" : 0
@@ -872,15 +1046,7 @@
       "duration" : 0,
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "OFF",
-      "noteValue" : 53,
-      "noteName" : null,
-      "chordName" : null,
-      "finger" : 0
-    }, {
-      "duration" : 0,
-      "noteType" : "LEFT_HAND_BASS",
-      "noteState" : "OFF",
-      "noteValue" : 57,
+      "noteValue" : 45,
       "noteName" : null,
       "chordName" : null,
       "finger" : 0
@@ -914,11 +1080,17 @@
       "chordName" : null,
       "finger" : 0
     } ],
+    "notesOff" : null
+  }, {
+    "timestamp" : 29998,
+    "duration" : 0,
+    "offsetX" : 2908,
+    "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "OFF",
-      "noteValue" : 71,
+      "noteValue" : 69,
       "noteName" : null,
       "chordName" : null,
       "finger" : 0
@@ -926,7 +1098,15 @@
       "duration" : 0,
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "OFF",
-      "noteValue" : 45,
+      "noteValue" : 48,
+      "noteName" : null,
+      "chordName" : null,
+      "finger" : 0
+    }, {
+      "duration" : 0,
+      "noteType" : "LEFT_HAND_BASS",
+      "noteState" : "OFF",
+      "noteValue" : 52,
       "noteName" : null,
       "chordName" : null,
       "finger" : 0
@@ -952,11 +1132,17 @@
       "chordName" : null,
       "finger" : 0
     } ],
+    "notesOff" : null
+  }, {
+    "timestamp" : 31498,
+    "duration" : 0,
+    "offsetX" : 3038,
+    "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "OFF",
-      "noteValue" : 69,
+      "noteValue" : 74,
       "noteName" : null,
       "chordName" : null,
       "finger" : 0
@@ -964,15 +1150,7 @@
       "duration" : 0,
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "OFF",
-      "noteValue" : 48,
-      "noteName" : null,
-      "chordName" : null,
-      "finger" : 0
-    }, {
-      "duration" : 0,
-      "noteType" : "LEFT_HAND_BASS",
-      "noteState" : "OFF",
-      "noteValue" : 52,
+      "noteValue" : 50,
       "noteName" : null,
       "chordName" : null,
       "finger" : 0
@@ -1006,19 +1184,17 @@
       "chordName" : null,
       "finger" : 0
     } ],
+    "notesOff" : null
+  }, {
+    "timestamp" : 32498,
+    "duration" : 0,
+    "offsetX" : 3130,
+    "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "OFF",
-      "noteValue" : 74,
-      "noteName" : null,
-      "chordName" : null,
-      "finger" : 0
-    }, {
-      "duration" : 0,
-      "noteType" : "LEFT_HAND_BASS",
-      "noteState" : "OFF",
-      "noteValue" : 50,
+      "noteValue" : 76,
       "noteName" : null,
       "chordName" : null,
       "finger" : 0
@@ -1036,11 +1212,33 @@
       "chordName" : null,
       "finger" : 0
     } ],
+    "notesOff" : null
+  }, {
+    "timestamp" : 32999,
+    "duration" : 0,
+    "offsetX" : 3203,
+    "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "OFF",
-      "noteValue" : 76,
+      "noteValue" : 72,
+      "noteName" : null,
+      "chordName" : null,
+      "finger" : 0
+    }, {
+      "duration" : 0,
+      "noteType" : "LEFT_HAND_BASS",
+      "noteState" : "OFF",
+      "noteValue" : 53,
+      "noteName" : null,
+      "chordName" : null,
+      "finger" : 0
+    }, {
+      "duration" : 0,
+      "noteType" : "LEFT_HAND_BASS",
+      "noteState" : "OFF",
+      "noteValue" : 57,
       "noteName" : null,
       "chordName" : null,
       "finger" : 0
@@ -1066,11 +1264,17 @@
       "chordName" : null,
       "finger" : 0
     } ],
+    "notesOff" : null
+  }, {
+    "timestamp" : 34499,
+    "duration" : 0,
+    "offsetX" : 3334,
+    "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "OFF",
-      "noteValue" : 72,
+      "noteValue" : 71,
       "noteName" : null,
       "chordName" : null,
       "finger" : 0
@@ -1078,15 +1282,7 @@
       "duration" : 0,
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "OFF",
-      "noteValue" : 53,
-      "noteName" : null,
-      "chordName" : null,
-      "finger" : 0
-    }, {
-      "duration" : 0,
-      "noteType" : "LEFT_HAND_BASS",
-      "noteState" : "OFF",
-      "noteValue" : 57,
+      "noteValue" : 45,
       "noteName" : null,
       "chordName" : null,
       "finger" : 0
@@ -1120,44 +1316,12 @@
       "chordName" : null,
       "finger" : 0
     } ],
-    "notesOff" : [ {
-      "duration" : 0,
-      "noteType" : "RIGHT_HAND_NOTE",
-      "noteState" : "OFF",
-      "noteValue" : 71,
-      "noteName" : null,
-      "chordName" : null,
-      "finger" : 0
-    }, {
-      "duration" : 0,
-      "noteType" : "LEFT_HAND_BASS",
-      "noteState" : "OFF",
-      "noteValue" : 45,
-      "noteName" : null,
-      "chordName" : null,
-      "finger" : 0
-    } ]
+    "notesOff" : null
   }, {
-    "timestamp" : 36000,
-    "duration" : 1500,
-    "offsetX" : 3465,
-    "notesOn" : [ {
-      "duration" : 2500,
-      "noteType" : "RIGHT_HAND_NOTE",
-      "noteState" : "ON",
-      "noteValue" : 72,
-      "noteName" : "C5",
-      "chordName" : null,
-      "finger" : 0
-    }, {
-      "duration" : 1500,
-      "noteType" : "LEFT_HAND_BASS",
-      "noteState" : "ON",
-      "noteValue" : 53,
-      "noteName" : "F3",
-      "chordName" : null,
-      "finger" : 0
-    } ],
+    "timestamp" : 35999,
+    "duration" : 0,
+    "offsetX" : 3464,
+    "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -1184,6 +1348,42 @@
       "finger" : 0
     } ]
   }, {
+    "timestamp" : 36000,
+    "duration" : 1500,
+    "offsetX" : 3465,
+    "notesOn" : [ {
+      "duration" : 2500,
+      "noteType" : "RIGHT_HAND_NOTE",
+      "noteState" : "ON",
+      "noteValue" : 72,
+      "noteName" : "C5",
+      "chordName" : null,
+      "finger" : 0
+    }, {
+      "duration" : 1500,
+      "noteType" : "LEFT_HAND_BASS",
+      "noteState" : "ON",
+      "noteValue" : 53,
+      "noteName" : "F3",
+      "chordName" : null,
+      "finger" : 0
+    } ],
+    "notesOff" : null
+  }, {
+    "timestamp" : 37499,
+    "duration" : 0,
+    "offsetX" : 3592,
+    "notesOn" : null,
+    "notesOff" : [ {
+      "duration" : 0,
+      "noteType" : "LEFT_HAND_BASS",
+      "noteState" : "OFF",
+      "noteValue" : 53,
+      "noteName" : null,
+      "chordName" : null,
+      "finger" : 0
+    } ]
+  }, {
     "timestamp" : 37500,
     "duration" : 1000,
     "offsetX" : 3593,
@@ -1204,11 +1404,17 @@
       "chordName" : null,
       "finger" : 0
     } ],
+    "notesOff" : null
+  }, {
+    "timestamp" : 38499,
+    "duration" : 0,
+    "offsetX" : 3684,
+    "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
-      "noteType" : "LEFT_HAND_BASS",
+      "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "OFF",
-      "noteValue" : 53,
+      "noteValue" : 72,
       "noteName" : null,
       "chordName" : null,
       "finger" : 0
@@ -1226,11 +1432,33 @@
       "chordName" : null,
       "finger" : 0
     } ],
+    "notesOff" : null
+  }, {
+    "timestamp" : 38999,
+    "duration" : 0,
+    "offsetX" : 3757,
+    "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "OFF",
-      "noteValue" : 72,
+      "noteValue" : 71,
+      "noteName" : null,
+      "chordName" : null,
+      "finger" : 0
+    }, {
+      "duration" : 0,
+      "noteType" : "LEFT_HAND_BASS",
+      "noteState" : "OFF",
+      "noteValue" : 57,
+      "noteName" : null,
+      "chordName" : null,
+      "finger" : 0
+    }, {
+      "duration" : 0,
+      "noteType" : "LEFT_HAND_BASS",
+      "noteState" : "OFF",
+      "noteValue" : 60,
       "noteName" : null,
       "chordName" : null,
       "finger" : 0
@@ -1256,27 +1484,17 @@
       "chordName" : null,
       "finger" : 0
     } ],
+    "notesOff" : null
+  }, {
+    "timestamp" : 40499,
+    "duration" : 0,
+    "offsetX" : 3885,
+    "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
-      "noteType" : "RIGHT_HAND_NOTE",
-      "noteState" : "OFF",
-      "noteValue" : 71,
-      "noteName" : null,
-      "chordName" : null,
-      "finger" : 0
-    }, {
-      "duration" : 0,
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "OFF",
-      "noteValue" : 57,
-      "noteName" : null,
-      "chordName" : null,
-      "finger" : 0
-    }, {
-      "duration" : 0,
-      "noteType" : "LEFT_HAND_BASS",
-      "noteState" : "OFF",
-      "noteValue" : 60,
+      "noteValue" : 48,
       "noteName" : null,
       "chordName" : null,
       "finger" : 0
@@ -1302,11 +1520,33 @@
       "chordName" : null,
       "finger" : 0
     } ],
+    "notesOff" : null
+  }, {
+    "timestamp" : 41999,
+    "duration" : 0,
+    "offsetX" : 4016,
+    "notesOn" : null,
     "notesOff" : [ {
+      "duration" : 0,
+      "noteType" : "RIGHT_HAND_NOTE",
+      "noteState" : "OFF",
+      "noteValue" : 64,
+      "noteName" : null,
+      "chordName" : null,
+      "finger" : 0
+    }, {
       "duration" : 0,
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "OFF",
-      "noteValue" : 48,
+      "noteValue" : 52,
+      "noteName" : null,
+      "chordName" : null,
+      "finger" : 0
+    }, {
+      "duration" : 0,
+      "noteType" : "LEFT_HAND_BASS",
+      "noteState" : "OFF",
+      "noteValue" : 55,
       "noteName" : null,
       "chordName" : null,
       "finger" : 0
@@ -1332,27 +1572,17 @@
       "chordName" : null,
       "finger" : 0
     } ],
+    "notesOff" : null
+  }, {
+    "timestamp" : 43499,
+    "duration" : 0,
+    "offsetX" : 4144,
+    "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
-      "noteType" : "RIGHT_HAND_NOTE",
-      "noteState" : "OFF",
-      "noteValue" : 64,
-      "noteName" : null,
-      "chordName" : null,
-      "finger" : 0
-    }, {
-      "duration" : 0,
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "OFF",
-      "noteValue" : 52,
-      "noteName" : null,
-      "chordName" : null,
-      "finger" : 0
-    }, {
-      "duration" : 0,
-      "noteType" : "LEFT_HAND_BASS",
-      "noteState" : "OFF",
-      "noteValue" : 55,
+      "noteValue" : 53,
       "noteName" : null,
       "chordName" : null,
       "finger" : 0
@@ -1378,11 +1608,17 @@
       "chordName" : null,
       "finger" : 0
     } ],
+    "notesOff" : null
+  }, {
+    "timestamp" : 43999,
+    "duration" : 0,
+    "offsetX" : 4195,
+    "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
-      "noteType" : "LEFT_HAND_BASS",
+      "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "OFF",
-      "noteValue" : 53,
+      "noteValue" : 72,
       "noteName" : null,
       "chordName" : null,
       "finger" : 0
@@ -1400,6 +1636,12 @@
       "chordName" : null,
       "finger" : 0
     } ],
+    "notesOff" : null
+  }, {
+    "timestamp" : 44499,
+    "duration" : 0,
+    "offsetX" : 4249,
+    "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -1422,36 +1664,12 @@
       "chordName" : null,
       "finger" : 0
     } ],
-    "notesOff" : [ {
-      "duration" : 0,
-      "noteType" : "RIGHT_HAND_NOTE",
-      "noteState" : "OFF",
-      "noteValue" : 72,
-      "noteName" : null,
-      "chordName" : null,
-      "finger" : 0
-    } ]
+    "notesOff" : null
   }, {
-    "timestamp" : 45000,
-    "duration" : 1500,
-    "offsetX" : 4323,
-    "notesOn" : [ {
-      "duration" : 3000,
-      "noteType" : "RIGHT_HAND_NOTE",
-      "noteState" : "ON",
-      "noteValue" : 64,
-      "noteName" : "E4",
-      "chordName" : null,
-      "finger" : 0
-    }, {
-      "duration" : 1500,
-      "noteType" : "LEFT_HAND_BASS",
-      "noteState" : "ON",
-      "noteValue" : 48,
-      "noteName" : "C3",
-      "chordName" : null,
-      "finger" : 0
-    } ],
+    "timestamp" : 44999,
+    "duration" : 0,
+    "offsetX" : 4322,
+    "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -1478,6 +1696,42 @@
       "finger" : 0
     } ]
   }, {
+    "timestamp" : 45000,
+    "duration" : 1500,
+    "offsetX" : 4323,
+    "notesOn" : [ {
+      "duration" : 3000,
+      "noteType" : "RIGHT_HAND_NOTE",
+      "noteState" : "ON",
+      "noteValue" : 64,
+      "noteName" : "E4",
+      "chordName" : null,
+      "finger" : 0
+    }, {
+      "duration" : 1500,
+      "noteType" : "LEFT_HAND_BASS",
+      "noteState" : "ON",
+      "noteValue" : 48,
+      "noteName" : "C3",
+      "chordName" : null,
+      "finger" : 0
+    } ],
+    "notesOff" : null
+  }, {
+    "timestamp" : 46499,
+    "duration" : 0,
+    "offsetX" : 4450,
+    "notesOn" : null,
+    "notesOff" : [ {
+      "duration" : 0,
+      "noteType" : "LEFT_HAND_BASS",
+      "noteState" : "OFF",
+      "noteValue" : 48,
+      "noteName" : null,
+      "chordName" : null,
+      "finger" : 0
+    } ]
+  }, {
     "timestamp" : 46500,
     "duration" : 1500,
     "offsetX" : 4451,
@@ -1498,15 +1752,7 @@
       "chordName" : null,
       "finger" : 0
     } ],
-    "notesOff" : [ {
-      "duration" : 0,
-      "noteType" : "LEFT_HAND_BASS",
-      "noteState" : "OFF",
-      "noteValue" : 48,
-      "noteName" : null,
-      "chordName" : null,
-      "finger" : 0
-    } ]
+    "notesOff" : null
   }, {
     "timestamp" : 48000,
     "duration" : 35,
