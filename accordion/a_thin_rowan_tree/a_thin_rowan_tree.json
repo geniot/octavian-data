@@ -4,6 +4,7 @@
     "timestamp" : 0,
     "duration" : 392,
     "offsetX" : 116,
+    "bar" : 1,
     "notesOn" : [ {
       "duration" : 785,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -43,6 +44,7 @@
     "timestamp" : 392,
     "duration" : 21,
     "offsetX" : 160,
+    "bar" : 1,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -58,6 +60,7 @@
     "timestamp" : 413,
     "duration" : 372,
     "offsetX" : 163,
+    "bar" : 1,
     "notesOn" : [ {
       "duration" : 393,
       "noteType" : "LEFT_HAND_CHORD",
@@ -73,6 +76,7 @@
     "timestamp" : 785,
     "duration" : 21,
     "offsetX" : 204,
+    "bar" : 1,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -104,6 +108,7 @@
     "timestamp" : 806,
     "duration" : 21,
     "offsetX" : 206,
+    "bar" : 1,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -119,6 +124,7 @@
     "timestamp" : 827,
     "duration" : 393,
     "offsetX" : 209,
+    "bar" : 1,
     "notesOn" : [ {
       "duration" : 393,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -158,6 +164,7 @@
     "timestamp" : 1220,
     "duration" : 21,
     "offsetX" : 270,
+    "bar" : 2,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -197,6 +204,7 @@
     "timestamp" : 1241,
     "duration" : 393,
     "offsetX" : 274,
+    "bar" : 2,
     "notesOn" : [ {
       "duration" : 786,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -236,6 +244,7 @@
     "timestamp" : 1634,
     "duration" : 21,
     "offsetX" : 319,
+    "bar" : 2,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -251,6 +260,7 @@
     "timestamp" : 1655,
     "duration" : 372,
     "offsetX" : 322,
+    "bar" : 2,
     "notesOn" : [ {
       "duration" : 392,
       "noteType" : "LEFT_HAND_CHORD",
@@ -266,6 +276,7 @@
     "timestamp" : 2027,
     "duration" : 20,
     "offsetX" : 363,
+    "bar" : 2,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -297,6 +308,7 @@
     "timestamp" : 2047,
     "duration" : 21,
     "offsetX" : 365,
+    "bar" : 2,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -312,6 +324,7 @@
     "timestamp" : 2068,
     "duration" : 393,
     "offsetX" : 368,
+    "bar" : 2,
     "notesOn" : [ {
       "duration" : 393,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -351,6 +364,7 @@
     "timestamp" : 2461,
     "duration" : 21,
     "offsetX" : 429,
+    "bar" : 3,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -390,6 +404,7 @@
     "timestamp" : 2482,
     "duration" : 393,
     "offsetX" : 433,
+    "bar" : 3,
     "notesOn" : [ {
       "duration" : 393,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -429,6 +444,7 @@
     "timestamp" : 2875,
     "duration" : 21,
     "offsetX" : 478,
+    "bar" : 3,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -468,6 +484,7 @@
     "timestamp" : 2896,
     "duration" : 393,
     "offsetX" : 481,
+    "bar" : 3,
     "notesOn" : [ {
       "duration" : 786,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -507,6 +524,7 @@
     "timestamp" : 3289,
     "duration" : 21,
     "offsetX" : 524,
+    "bar" : 3,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -522,6 +540,7 @@
     "timestamp" : 3310,
     "duration" : 372,
     "offsetX" : 527,
+    "bar" : 3,
     "notesOn" : [ {
       "duration" : 393,
       "noteType" : "LEFT_HAND_CHORD",
@@ -537,6 +556,7 @@
     "timestamp" : 3682,
     "duration" : 21,
     "offsetX" : 585,
+    "bar" : 4,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -568,6 +588,7 @@
     "timestamp" : 3703,
     "duration" : 21,
     "offsetX" : 588,
+    "bar" : 4,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -583,6 +604,7 @@
     "timestamp" : 3724,
     "duration" : 195,
     "offsetX" : 592,
+    "bar" : 4,
     "notesOn" : [ {
       "duration" : 195,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -606,6 +628,7 @@
     "timestamp" : 3919,
     "duration" : 12,
     "offsetX" : 624,
+    "bar" : 4,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -621,6 +644,7 @@
     "timestamp" : 3931,
     "duration" : 185,
     "offsetX" : 626,
+    "bar" : 4,
     "notesOn" : [ {
       "duration" : 195,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -636,6 +660,7 @@
     "timestamp" : 4116,
     "duration" : 10,
     "offsetX" : 655,
+    "bar" : 4,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -651,6 +676,7 @@
     "timestamp" : 4126,
     "duration" : 11,
     "offsetX" : 657,
+    "bar" : 4,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -666,6 +692,7 @@
     "timestamp" : 4137,
     "duration" : 196,
     "offsetX" : 659,
+    "bar" : 4,
     "notesOn" : [ {
       "duration" : 196,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -689,6 +716,7 @@
     "timestamp" : 4333,
     "duration" : 11,
     "offsetX" : 690,
+    "bar" : 4,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -704,6 +732,7 @@
     "timestamp" : 4344,
     "duration" : 186,
     "offsetX" : 692,
+    "bar" : 4,
     "notesOn" : [ {
       "duration" : 196,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -719,6 +748,7 @@
     "timestamp" : 4530,
     "duration" : 10,
     "offsetX" : 720,
+    "bar" : 4,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -734,6 +764,7 @@
     "timestamp" : 4540,
     "duration" : 11,
     "offsetX" : 722,
+    "bar" : 4,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -749,6 +780,7 @@
     "timestamp" : 4551,
     "duration" : 196,
     "offsetX" : 724,
+    "bar" : 4,
     "notesOn" : [ {
       "duration" : 196,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -772,6 +804,7 @@
     "timestamp" : 4747,
     "duration" : 11,
     "offsetX" : 755,
+    "bar" : 4,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -787,6 +820,7 @@
     "timestamp" : 4758,
     "duration" : 186,
     "offsetX" : 757,
+    "bar" : 4,
     "notesOn" : [ {
       "duration" : 196,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -802,6 +836,7 @@
     "timestamp" : 4944,
     "duration" : 10,
     "offsetX" : 804,
+    "bar" : 5,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -817,6 +852,7 @@
     "timestamp" : 4954,
     "duration" : 11,
     "offsetX" : 807,
+    "bar" : 5,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -832,6 +868,7 @@
     "timestamp" : 4965,
     "duration" : 393,
     "offsetX" : 810,
+    "bar" : 5,
     "notesOn" : [ {
       "duration" : 786,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -855,6 +892,7 @@
     "timestamp" : 5358,
     "duration" : 21,
     "offsetX" : 851,
+    "bar" : 5,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -870,6 +908,7 @@
     "timestamp" : 5379,
     "duration" : 372,
     "offsetX" : 854,
+    "bar" : 5,
     "notesOn" : [ {
       "duration" : 392,
       "noteType" : "LEFT_HAND_CHORD",
@@ -885,6 +924,7 @@
     "timestamp" : 5751,
     "duration" : 20,
     "offsetX" : 895,
+    "bar" : 5,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -900,6 +940,7 @@
     "timestamp" : 5771,
     "duration" : 22,
     "offsetX" : 897,
+    "bar" : 5,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -915,6 +956,7 @@
     "timestamp" : 5793,
     "duration" : 392,
     "offsetX" : 900,
+    "bar" : 5,
     "notesOn" : [ {
       "duration" : 392,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -946,6 +988,7 @@
     "timestamp" : 6185,
     "duration" : 21,
     "offsetX" : 961,
+    "bar" : 6,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -977,6 +1020,7 @@
     "timestamp" : 6206,
     "duration" : 393,
     "offsetX" : 965,
+    "bar" : 6,
     "notesOn" : [ {
       "duration" : 786,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -1008,6 +1052,7 @@
     "timestamp" : 6599,
     "duration" : 21,
     "offsetX" : 1006,
+    "bar" : 6,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -1023,6 +1068,7 @@
     "timestamp" : 6620,
     "duration" : 372,
     "offsetX" : 1009,
+    "bar" : 6,
     "notesOn" : [ {
       "duration" : 393,
       "noteType" : "LEFT_HAND_CHORD",
@@ -1038,6 +1084,7 @@
     "timestamp" : 6992,
     "duration" : 21,
     "offsetX" : 1049,
+    "bar" : 6,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -1061,6 +1108,7 @@
     "timestamp" : 7013,
     "duration" : 21,
     "offsetX" : 1051,
+    "bar" : 6,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -1076,6 +1124,7 @@
     "timestamp" : 7034,
     "duration" : 393,
     "offsetX" : 1054,
+    "bar" : 6,
     "notesOn" : [ {
       "duration" : 393,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -1107,6 +1156,7 @@
     "timestamp" : 7427,
     "duration" : 21,
     "offsetX" : 1116,
+    "bar" : 7,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -1138,6 +1188,7 @@
     "timestamp" : 7448,
     "duration" : 392,
     "offsetX" : 1120,
+    "bar" : 7,
     "notesOn" : [ {
       "duration" : 392,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -1169,6 +1220,7 @@
     "timestamp" : 7840,
     "duration" : 22,
     "offsetX" : 1164,
+    "bar" : 7,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -1200,6 +1252,7 @@
     "timestamp" : 7862,
     "duration" : 392,
     "offsetX" : 1167,
+    "bar" : 7,
     "notesOn" : [ {
       "duration" : 785,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -1231,6 +1284,7 @@
     "timestamp" : 8254,
     "duration" : 21,
     "offsetX" : 1210,
+    "bar" : 7,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -1246,6 +1300,7 @@
     "timestamp" : 8275,
     "duration" : 372,
     "offsetX" : 1213,
+    "bar" : 7,
     "notesOn" : [ {
       "duration" : 393,
       "noteType" : "LEFT_HAND_CHORD",
@@ -1261,6 +1316,7 @@
     "timestamp" : 8647,
     "duration" : 21,
     "offsetX" : 1272,
+    "bar" : 8,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -1284,6 +1340,7 @@
     "timestamp" : 8668,
     "duration" : 21,
     "offsetX" : 1275,
+    "bar" : 8,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -1299,6 +1356,7 @@
     "timestamp" : 8689,
     "duration" : 196,
     "offsetX" : 1279,
+    "bar" : 8,
     "notesOn" : [ {
       "duration" : 196,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -1322,6 +1380,7 @@
     "timestamp" : 8885,
     "duration" : 11,
     "offsetX" : 1313,
+    "bar" : 8,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -1337,6 +1396,7 @@
     "timestamp" : 8896,
     "duration" : 186,
     "offsetX" : 1315,
+    "bar" : 8,
     "notesOn" : [ {
       "duration" : 196,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -1352,6 +1412,7 @@
     "timestamp" : 9082,
     "duration" : 10,
     "offsetX" : 1344,
+    "bar" : 8,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -1367,6 +1428,7 @@
     "timestamp" : 9092,
     "duration" : 11,
     "offsetX" : 1346,
+    "bar" : 8,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -1382,6 +1444,7 @@
     "timestamp" : 9103,
     "duration" : 196,
     "offsetX" : 1348,
+    "bar" : 8,
     "notesOn" : [ {
       "duration" : 196,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -1405,6 +1468,7 @@
     "timestamp" : 9299,
     "duration" : 11,
     "offsetX" : 1378,
+    "bar" : 8,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -1420,6 +1484,7 @@
     "timestamp" : 9310,
     "duration" : 186,
     "offsetX" : 1380,
+    "bar" : 8,
     "notesOn" : [ {
       "duration" : 196,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -1435,6 +1500,7 @@
     "timestamp" : 9496,
     "duration" : 10,
     "offsetX" : 1409,
+    "bar" : 8,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -1450,6 +1516,7 @@
     "timestamp" : 9506,
     "duration" : 11,
     "offsetX" : 1411,
+    "bar" : 8,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -1465,6 +1532,7 @@
     "timestamp" : 9517,
     "duration" : 195,
     "offsetX" : 1413,
+    "bar" : 8,
     "notesOn" : [ {
       "duration" : 195,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -1488,6 +1556,7 @@
     "timestamp" : 9712,
     "duration" : 12,
     "offsetX" : 1444,
+    "bar" : 8,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -1503,6 +1572,7 @@
     "timestamp" : 9724,
     "duration" : 185,
     "offsetX" : 1446,
+    "bar" : 8,
     "notesOn" : [ {
       "duration" : 195,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -1518,6 +1588,7 @@
     "timestamp" : 9909,
     "duration" : 10,
     "offsetX" : 1492,
+    "bar" : 9,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -1533,6 +1604,7 @@
     "timestamp" : 9919,
     "duration" : 12,
     "offsetX" : 1494,
+    "bar" : 9,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -1548,6 +1620,7 @@
     "timestamp" : 9931,
     "duration" : 392,
     "offsetX" : 1498,
+    "bar" : 9,
     "notesOn" : [ {
       "duration" : 392,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -1571,6 +1644,7 @@
     "timestamp" : 10323,
     "duration" : 21,
     "offsetX" : 1542,
+    "bar" : 9,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -1594,6 +1668,7 @@
     "timestamp" : 10344,
     "duration" : 393,
     "offsetX" : 1545,
+    "bar" : 9,
     "notesOn" : [ {
       "duration" : 393,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -1625,6 +1700,7 @@
     "timestamp" : 10737,
     "duration" : 21,
     "offsetX" : 1590,
+    "bar" : 9,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -1656,6 +1732,7 @@
     "timestamp" : 10758,
     "duration" : 393,
     "offsetX" : 1593,
+    "bar" : 9,
     "notesOn" : [ {
       "duration" : 393,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -1687,6 +1764,7 @@
     "timestamp" : 11151,
     "duration" : 21,
     "offsetX" : 1654,
+    "bar" : 10,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -1718,6 +1796,7 @@
     "timestamp" : 11172,
     "duration" : 393,
     "offsetX" : 1658,
+    "bar" : 10,
     "notesOn" : [ {
       "duration" : 786,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -1757,6 +1836,7 @@
     "timestamp" : 11565,
     "duration" : 21,
     "offsetX" : 1702,
+    "bar" : 10,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -1772,6 +1852,7 @@
     "timestamp" : 11586,
     "duration" : 372,
     "offsetX" : 1705,
+    "bar" : 10,
     "notesOn" : [ {
       "duration" : 392,
       "noteType" : "LEFT_HAND_CHORD",
@@ -1787,6 +1868,7 @@
     "timestamp" : 11958,
     "duration" : 20,
     "offsetX" : 1744,
+    "bar" : 10,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -1818,6 +1900,7 @@
     "timestamp" : 11978,
     "duration" : 22,
     "offsetX" : 1746,
+    "bar" : 10,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -1833,6 +1916,7 @@
     "timestamp" : 12000,
     "duration" : 392,
     "offsetX" : 1749,
+    "bar" : 10,
     "notesOn" : [ {
       "duration" : 392,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -1880,6 +1964,7 @@
     "timestamp" : 12392,
     "duration" : 21,
     "offsetX" : 1811,
+    "bar" : 11,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -1927,6 +2012,7 @@
     "timestamp" : 12413,
     "duration" : 393,
     "offsetX" : 1815,
+    "bar" : 11,
     "notesOn" : [ {
       "duration" : 393,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -1966,6 +2052,7 @@
     "timestamp" : 12806,
     "duration" : 21,
     "offsetX" : 1857,
+    "bar" : 11,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -1997,6 +2084,7 @@
     "timestamp" : 12827,
     "duration" : 414,
     "offsetX" : 1860,
+    "bar" : 11,
     "notesOn" : [ {
       "duration" : 786,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -2028,6 +2116,7 @@
     "timestamp" : 13240,
     "duration" : 0,
     "offsetX" : 1906,
+    "bar" : 11,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -2043,6 +2132,7 @@
     "timestamp" : 13241,
     "duration" : 372,
     "offsetX" : 1907,
+    "bar" : 11,
     "notesOn" : [ {
       "duration" : 414,
       "noteType" : "LEFT_HAND_CHORD",
@@ -2058,6 +2148,7 @@
     "timestamp" : 13613,
     "duration" : 42,
     "offsetX" : 1965,
+    "bar" : 12,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -2081,6 +2172,7 @@
     "timestamp" : 13654,
     "duration" : 0,
     "offsetX" : 1971,
+    "bar" : 12,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -2104,6 +2196,7 @@
     "timestamp" : 13655,
     "duration" : 195,
     "offsetX" : 1972,
+    "bar" : 12,
     "notesOn" : [ {
       "duration" : 195,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -2127,6 +2220,7 @@
     "timestamp" : 13850,
     "duration" : 12,
     "offsetX" : 2004,
+    "bar" : 12,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -2142,6 +2236,7 @@
     "timestamp" : 13862,
     "duration" : 185,
     "offsetX" : 2006,
+    "bar" : 12,
     "notesOn" : [ {
       "duration" : 195,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -2157,6 +2252,7 @@
     "timestamp" : 14047,
     "duration" : 10,
     "offsetX" : 2035,
+    "bar" : 12,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -2172,6 +2268,7 @@
     "timestamp" : 14057,
     "duration" : 11,
     "offsetX" : 2037,
+    "bar" : 12,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -2187,6 +2284,7 @@
     "timestamp" : 14068,
     "duration" : 196,
     "offsetX" : 2039,
+    "bar" : 12,
     "notesOn" : [ {
       "duration" : 196,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -2210,6 +2308,7 @@
     "timestamp" : 14264,
     "duration" : 11,
     "offsetX" : 2069,
+    "bar" : 12,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -2225,6 +2324,7 @@
     "timestamp" : 14275,
     "duration" : 186,
     "offsetX" : 2071,
+    "bar" : 12,
     "notesOn" : [ {
       "duration" : 196,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -2240,6 +2340,7 @@
     "timestamp" : 14461,
     "duration" : 10,
     "offsetX" : 2101,
+    "bar" : 12,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -2255,6 +2356,7 @@
     "timestamp" : 14471,
     "duration" : 11,
     "offsetX" : 2103,
+    "bar" : 12,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -2270,6 +2372,7 @@
     "timestamp" : 14482,
     "duration" : 196,
     "offsetX" : 2105,
+    "bar" : 12,
     "notesOn" : [ {
       "duration" : 196,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -2293,6 +2396,7 @@
     "timestamp" : 14678,
     "duration" : 11,
     "offsetX" : 2135,
+    "bar" : 12,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -2308,6 +2412,7 @@
     "timestamp" : 14689,
     "duration" : 186,
     "offsetX" : 2137,
+    "bar" : 12,
     "notesOn" : [ {
       "duration" : 196,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -2323,6 +2428,7 @@
     "timestamp" : 14875,
     "duration" : 10,
     "offsetX" : 2183,
+    "bar" : 13,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -2338,6 +2444,7 @@
     "timestamp" : 14885,
     "duration" : 11,
     "offsetX" : 2186,
+    "bar" : 13,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -2353,6 +2460,7 @@
     "timestamp" : 14896,
     "duration" : 393,
     "offsetX" : 2189,
+    "bar" : 13,
     "notesOn" : [ {
       "duration" : 786,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -2392,6 +2500,7 @@
     "timestamp" : 15289,
     "duration" : 21,
     "offsetX" : 2233,
+    "bar" : 13,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -2407,6 +2516,7 @@
     "timestamp" : 15310,
     "duration" : 372,
     "offsetX" : 2236,
+    "bar" : 13,
     "notesOn" : [ {
       "duration" : 393,
       "noteType" : "LEFT_HAND_CHORD",
@@ -2422,6 +2532,7 @@
     "timestamp" : 15682,
     "duration" : 21,
     "offsetX" : 2278,
+    "bar" : 13,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -2453,6 +2564,7 @@
     "timestamp" : 15703,
     "duration" : 21,
     "offsetX" : 2280,
+    "bar" : 13,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -2468,6 +2580,7 @@
     "timestamp" : 15724,
     "duration" : 392,
     "offsetX" : 2283,
+    "bar" : 13,
     "notesOn" : [ {
       "duration" : 392,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -2507,6 +2620,7 @@
     "timestamp" : 16116,
     "duration" : 21,
     "offsetX" : 2344,
+    "bar" : 14,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -2546,6 +2660,7 @@
     "timestamp" : 16137,
     "duration" : 393,
     "offsetX" : 2348,
+    "bar" : 14,
     "notesOn" : [ {
       "duration" : 786,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -2577,6 +2692,7 @@
     "timestamp" : 16530,
     "duration" : 21,
     "offsetX" : 2389,
+    "bar" : 14,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -2592,6 +2708,7 @@
     "timestamp" : 16551,
     "duration" : 372,
     "offsetX" : 2392,
+    "bar" : 14,
     "notesOn" : [ {
       "duration" : 393,
       "noteType" : "LEFT_HAND_CHORD",
@@ -2607,6 +2724,7 @@
     "timestamp" : 16923,
     "duration" : 21,
     "offsetX" : 2433,
+    "bar" : 14,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -2630,6 +2748,7 @@
     "timestamp" : 16944,
     "duration" : 21,
     "offsetX" : 2435,
+    "bar" : 14,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -2645,6 +2764,7 @@
     "timestamp" : 16965,
     "duration" : 393,
     "offsetX" : 2438,
+    "bar" : 14,
     "notesOn" : [ {
       "duration" : 393,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -2676,6 +2796,7 @@
     "timestamp" : 17358,
     "duration" : 21,
     "offsetX" : 2499,
+    "bar" : 15,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -2707,6 +2828,7 @@
     "timestamp" : 17379,
     "duration" : 392,
     "offsetX" : 2503,
+    "bar" : 15,
     "notesOn" : [ {
       "duration" : 392,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -2738,6 +2860,7 @@
     "timestamp" : 17771,
     "duration" : 22,
     "offsetX" : 2547,
+    "bar" : 15,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -2769,6 +2892,7 @@
     "timestamp" : 17793,
     "duration" : 392,
     "offsetX" : 2550,
+    "bar" : 15,
     "notesOn" : [ {
       "duration" : 785,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -2792,6 +2916,7 @@
     "timestamp" : 18185,
     "duration" : 21,
     "offsetX" : 2594,
+    "bar" : 15,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -2807,6 +2932,7 @@
     "timestamp" : 18206,
     "duration" : 372,
     "offsetX" : 2597,
+    "bar" : 15,
     "notesOn" : [ {
       "duration" : 393,
       "noteType" : "LEFT_HAND_CHORD",
@@ -2822,6 +2948,7 @@
     "timestamp" : 18578,
     "duration" : 21,
     "offsetX" : 2655,
+    "bar" : 16,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -2837,6 +2964,7 @@
     "timestamp" : 18599,
     "duration" : 21,
     "offsetX" : 2658,
+    "bar" : 16,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -2852,6 +2980,7 @@
     "timestamp" : 18620,
     "duration" : 393,
     "offsetX" : 2662,
+    "bar" : 16,
     "notesOn" : [ {
       "duration" : 393,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -2875,6 +3004,7 @@
     "timestamp" : 19013,
     "duration" : 21,
     "offsetX" : 2702,
+    "bar" : 16,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -2898,6 +3028,7 @@
     "timestamp" : 19034,
     "duration" : 393,
     "offsetX" : 2705,
+    "bar" : 16,
     "notesOn" : [ {
       "duration" : 393,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -2929,6 +3060,7 @@
     "timestamp" : 19427,
     "duration" : 21,
     "offsetX" : 2748,
+    "bar" : 16,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -2952,6 +3084,7 @@
     "timestamp" : 19448,
     "duration" : 372,
     "offsetX" : 2751,
+    "bar" : 16,
     "notesOn" : [ {
       "duration" : 392,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -2975,6 +3108,7 @@
     "timestamp" : 19820,
     "duration" : 20,
     "offsetX" : 2809,
+    "bar" : 17,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -2990,6 +3124,7 @@
     "timestamp" : 19840,
     "duration" : 22,
     "offsetX" : 2812,
+    "bar" : 17,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -3013,6 +3148,7 @@
     "timestamp" : 19862,
     "duration" : 392,
     "offsetX" : 2816,
+    "bar" : 17,
     "notesOn" : [ {
       "duration" : 392,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -3036,6 +3172,7 @@
     "timestamp" : 20254,
     "duration" : 21,
     "offsetX" : 2861,
+    "bar" : 17,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -3059,6 +3196,7 @@
     "timestamp" : 20275,
     "duration" : 393,
     "offsetX" : 2864,
+    "bar" : 17,
     "notesOn" : [ {
       "duration" : 393,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -3090,6 +3228,7 @@
     "timestamp" : 20668,
     "duration" : 21,
     "offsetX" : 2905,
+    "bar" : 17,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -3121,6 +3260,7 @@
     "timestamp" : 20689,
     "duration" : 393,
     "offsetX" : 2908,
+    "bar" : 17,
     "notesOn" : [ {
       "duration" : 393,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -3152,6 +3292,7 @@
     "timestamp" : 21082,
     "duration" : 21,
     "offsetX" : 2971,
+    "bar" : 18,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -3183,6 +3324,7 @@
     "timestamp" : 21103,
     "duration" : 393,
     "offsetX" : 2975,
+    "bar" : 18,
     "notesOn" : [ {
       "duration" : 786,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -3222,6 +3364,7 @@
     "timestamp" : 21496,
     "duration" : 21,
     "offsetX" : 3018,
+    "bar" : 18,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -3237,6 +3380,7 @@
     "timestamp" : 21517,
     "duration" : 372,
     "offsetX" : 3021,
+    "bar" : 18,
     "notesOn" : [ {
       "duration" : 392,
       "noteType" : "LEFT_HAND_CHORD",
@@ -3252,6 +3396,7 @@
     "timestamp" : 21889,
     "duration" : 20,
     "offsetX" : 3060,
+    "bar" : 18,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -3283,6 +3428,7 @@
     "timestamp" : 21909,
     "duration" : 22,
     "offsetX" : 3062,
+    "bar" : 18,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -3298,6 +3444,7 @@
     "timestamp" : 21931,
     "duration" : 392,
     "offsetX" : 3065,
+    "bar" : 18,
     "notesOn" : [ {
       "duration" : 392,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -3345,6 +3492,7 @@
     "timestamp" : 22323,
     "duration" : 21,
     "offsetX" : 3127,
+    "bar" : 19,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -3392,6 +3540,7 @@
     "timestamp" : 22344,
     "duration" : 393,
     "offsetX" : 3131,
+    "bar" : 19,
     "notesOn" : [ {
       "duration" : 393,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -3431,6 +3580,7 @@
     "timestamp" : 22737,
     "duration" : 21,
     "offsetX" : 3174,
+    "bar" : 19,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -3462,6 +3612,7 @@
     "timestamp" : 22758,
     "duration" : 414,
     "offsetX" : 3177,
+    "bar" : 19,
     "notesOn" : [ {
       "duration" : 786,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -3493,6 +3644,7 @@
     "timestamp" : 23171,
     "duration" : 0,
     "offsetX" : 3222,
+    "bar" : 19,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -3508,6 +3660,7 @@
     "timestamp" : 23172,
     "duration" : 372,
     "offsetX" : 3223,
+    "bar" : 19,
     "notesOn" : [ {
       "duration" : 414,
       "noteType" : "LEFT_HAND_CHORD",
@@ -3523,6 +3676,7 @@
     "timestamp" : 23544,
     "duration" : 42,
     "offsetX" : 3281,
+    "bar" : 20,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -3546,6 +3700,7 @@
     "timestamp" : 23585,
     "duration" : 0,
     "offsetX" : 3287,
+    "bar" : 20,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -3569,6 +3724,7 @@
     "timestamp" : 23586,
     "duration" : 195,
     "offsetX" : 3288,
+    "bar" : 20,
     "notesOn" : [ {
       "duration" : 195,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -3592,6 +3748,7 @@
     "timestamp" : 23781,
     "duration" : 12,
     "offsetX" : 3320,
+    "bar" : 20,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -3607,6 +3764,7 @@
     "timestamp" : 23793,
     "duration" : 185,
     "offsetX" : 3322,
+    "bar" : 20,
     "notesOn" : [ {
       "duration" : 195,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -3622,6 +3780,7 @@
     "timestamp" : 23978,
     "duration" : 10,
     "offsetX" : 3351,
+    "bar" : 20,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -3637,6 +3796,7 @@
     "timestamp" : 23988,
     "duration" : 12,
     "offsetX" : 3353,
+    "bar" : 20,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -3652,6 +3812,7 @@
     "timestamp" : 24000,
     "duration" : 195,
     "offsetX" : 3355,
+    "bar" : 20,
     "notesOn" : [ {
       "duration" : 195,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -3675,6 +3836,7 @@
     "timestamp" : 24195,
     "duration" : 11,
     "offsetX" : 3386,
+    "bar" : 20,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -3690,6 +3852,7 @@
     "timestamp" : 24206,
     "duration" : 186,
     "offsetX" : 3388,
+    "bar" : 20,
     "notesOn" : [ {
       "duration" : 196,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -3705,6 +3868,7 @@
     "timestamp" : 24392,
     "duration" : 10,
     "offsetX" : 3416,
+    "bar" : 20,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -3720,6 +3884,7 @@
     "timestamp" : 24402,
     "duration" : 11,
     "offsetX" : 3418,
+    "bar" : 20,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -3735,6 +3900,7 @@
     "timestamp" : 24413,
     "duration" : 196,
     "offsetX" : 3420,
+    "bar" : 20,
     "notesOn" : [ {
       "duration" : 196,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -3758,6 +3924,7 @@
     "timestamp" : 24609,
     "duration" : 11,
     "offsetX" : 3451,
+    "bar" : 20,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -3773,6 +3940,7 @@
     "timestamp" : 24620,
     "duration" : 186,
     "offsetX" : 3453,
+    "bar" : 20,
     "notesOn" : [ {
       "duration" : 196,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -3788,6 +3956,7 @@
     "timestamp" : 24806,
     "duration" : 10,
     "offsetX" : 3499,
+    "bar" : 21,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -3803,6 +3972,7 @@
     "timestamp" : 24816,
     "duration" : 11,
     "offsetX" : 3502,
+    "bar" : 21,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -3818,6 +3988,7 @@
     "timestamp" : 24827,
     "duration" : 393,
     "offsetX" : 3505,
+    "bar" : 21,
     "notesOn" : [ {
       "duration" : 786,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -3857,6 +4028,7 @@
     "timestamp" : 25220,
     "duration" : 21,
     "offsetX" : 3549,
+    "bar" : 21,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -3872,6 +4044,7 @@
     "timestamp" : 25241,
     "duration" : 372,
     "offsetX" : 3552,
+    "bar" : 21,
     "notesOn" : [ {
       "duration" : 393,
       "noteType" : "LEFT_HAND_CHORD",
@@ -3887,6 +4060,7 @@
     "timestamp" : 25613,
     "duration" : 21,
     "offsetX" : 3594,
+    "bar" : 21,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -3918,6 +4092,7 @@
     "timestamp" : 25634,
     "duration" : 21,
     "offsetX" : 3596,
+    "bar" : 21,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -3933,6 +4108,7 @@
     "timestamp" : 25655,
     "duration" : 392,
     "offsetX" : 3599,
+    "bar" : 21,
     "notesOn" : [ {
       "duration" : 392,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -3972,6 +4148,7 @@
     "timestamp" : 26047,
     "duration" : 21,
     "offsetX" : 3660,
+    "bar" : 22,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -4011,6 +4188,7 @@
     "timestamp" : 26068,
     "duration" : 393,
     "offsetX" : 3664,
+    "bar" : 22,
     "notesOn" : [ {
       "duration" : 786,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -4042,6 +4220,7 @@
     "timestamp" : 26461,
     "duration" : 21,
     "offsetX" : 3705,
+    "bar" : 22,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -4057,6 +4236,7 @@
     "timestamp" : 26482,
     "duration" : 372,
     "offsetX" : 3708,
+    "bar" : 22,
     "notesOn" : [ {
       "duration" : 393,
       "noteType" : "LEFT_HAND_CHORD",
@@ -4072,6 +4252,7 @@
     "timestamp" : 26854,
     "duration" : 21,
     "offsetX" : 3749,
+    "bar" : 22,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -4095,6 +4276,7 @@
     "timestamp" : 26875,
     "duration" : 21,
     "offsetX" : 3751,
+    "bar" : 22,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -4110,6 +4292,7 @@
     "timestamp" : 26896,
     "duration" : 393,
     "offsetX" : 3754,
+    "bar" : 22,
     "notesOn" : [ {
       "duration" : 393,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -4141,6 +4324,7 @@
     "timestamp" : 27289,
     "duration" : 21,
     "offsetX" : 3815,
+    "bar" : 23,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -4172,6 +4356,7 @@
     "timestamp" : 27310,
     "duration" : 393,
     "offsetX" : 3819,
+    "bar" : 23,
     "notesOn" : [ {
       "duration" : 393,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -4203,6 +4388,7 @@
     "timestamp" : 27703,
     "duration" : 21,
     "offsetX" : 3863,
+    "bar" : 23,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -4234,6 +4420,7 @@
     "timestamp" : 27724,
     "duration" : 392,
     "offsetX" : 3866,
+    "bar" : 23,
     "notesOn" : [ {
       "duration" : 2006,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -4265,6 +4452,7 @@
     "timestamp" : 28116,
     "duration" : 21,
     "offsetX" : 3907,
+    "bar" : 23,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -4280,6 +4468,7 @@
     "timestamp" : 28137,
     "duration" : 393,
     "offsetX" : 3910,
+    "bar" : 23,
     "notesOn" : [ {
       "duration" : 393,
       "noteType" : "LEFT_HAND_CHORD",
@@ -4295,6 +4484,7 @@
     "timestamp" : 28530,
     "duration" : 21,
     "offsetX" : 3971,
+    "bar" : 24,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -4310,6 +4500,7 @@
     "timestamp" : 28551,
     "duration" : 393,
     "offsetX" : 3975,
+    "bar" : 24,
     "notesOn" : [ {
       "duration" : 393,
       "noteType" : "LEFT_HAND_BASS",
@@ -4325,6 +4516,7 @@
     "timestamp" : 28944,
     "duration" : 21,
     "offsetX" : 4017,
+    "bar" : 24,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -4340,6 +4532,7 @@
     "timestamp" : 28965,
     "duration" : 393,
     "offsetX" : 4020,
+    "bar" : 24,
     "notesOn" : [ {
       "duration" : 393,
       "noteType" : "LEFT_HAND_CHORD",
@@ -4355,6 +4548,7 @@
     "timestamp" : 29358,
     "duration" : 21,
     "offsetX" : 4064,
+    "bar" : 24,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -4370,6 +4564,7 @@
     "timestamp" : 29379,
     "duration" : 351,
     "offsetX" : 4067,
+    "bar" : 24,
     "notesOn" : [ {
       "duration" : 392,
       "noteType" : "LEFT_HAND_CHORD",
@@ -4385,6 +4580,7 @@
     "timestamp" : 29730,
     "duration" : 41,
     "offsetX" : 4122,
+    "bar" : 25,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -4408,6 +4604,7 @@
     "timestamp" : 29771,
     "duration" : 22,
     "offsetX" : 4128,
+    "bar" : 25,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -4423,6 +4620,7 @@
     "timestamp" : 29793,
     "duration" : 195,
     "offsetX" : 4132,
+    "bar" : 25,
     "notesOn" : [ {
       "duration" : 195,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -4446,6 +4644,7 @@
     "timestamp" : 29988,
     "duration" : 12,
     "offsetX" : 4165,
+    "bar" : 25,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -4461,6 +4660,7 @@
     "timestamp" : 30000,
     "duration" : 185,
     "offsetX" : 4168,
+    "bar" : 25,
     "notesOn" : [ {
       "duration" : 195,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -4476,6 +4676,7 @@
     "timestamp" : 30185,
     "duration" : 10,
     "offsetX" : 4197,
+    "bar" : 25,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -4491,6 +4692,7 @@
     "timestamp" : 30195,
     "duration" : 11,
     "offsetX" : 4199,
+    "bar" : 25,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -4506,6 +4708,7 @@
     "timestamp" : 30206,
     "duration" : 196,
     "offsetX" : 4201,
+    "bar" : 25,
     "notesOn" : [ {
       "duration" : 196,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -4529,6 +4732,7 @@
     "timestamp" : 30402,
     "duration" : 11,
     "offsetX" : 4232,
+    "bar" : 25,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -4544,6 +4748,7 @@
     "timestamp" : 30413,
     "duration" : 186,
     "offsetX" : 4234,
+    "bar" : 25,
     "notesOn" : [ {
       "duration" : 196,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -4559,6 +4764,7 @@
     "timestamp" : 30599,
     "duration" : 10,
     "offsetX" : 4262,
+    "bar" : 25,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -4574,6 +4780,7 @@
     "timestamp" : 30609,
     "duration" : 11,
     "offsetX" : 4264,
+    "bar" : 25,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -4589,6 +4796,7 @@
     "timestamp" : 30620,
     "duration" : 196,
     "offsetX" : 4266,
+    "bar" : 25,
     "notesOn" : [ {
       "duration" : 196,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -4612,6 +4820,7 @@
     "timestamp" : 30816,
     "duration" : 11,
     "offsetX" : 4297,
+    "bar" : 25,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -4627,6 +4836,7 @@
     "timestamp" : 30827,
     "duration" : 186,
     "offsetX" : 4299,
+    "bar" : 25,
     "notesOn" : [ {
       "duration" : 196,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -4642,6 +4852,7 @@
     "timestamp" : 31013,
     "duration" : 10,
     "offsetX" : 4345,
+    "bar" : 26,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -4657,6 +4868,7 @@
     "timestamp" : 31023,
     "duration" : 11,
     "offsetX" : 4348,
+    "bar" : 26,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -4672,6 +4884,7 @@
     "timestamp" : 31034,
     "duration" : 196,
     "offsetX" : 4351,
+    "bar" : 26,
     "notesOn" : [ {
       "duration" : 196,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -4695,6 +4908,7 @@
     "timestamp" : 31230,
     "duration" : 11,
     "offsetX" : 4383,
+    "bar" : 26,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -4710,6 +4924,7 @@
     "timestamp" : 31241,
     "duration" : 186,
     "offsetX" : 4385,
+    "bar" : 26,
     "notesOn" : [ {
       "duration" : 196,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -4725,6 +4940,7 @@
     "timestamp" : 31427,
     "duration" : 10,
     "offsetX" : 4414,
+    "bar" : 26,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -4740,6 +4956,7 @@
     "timestamp" : 31437,
     "duration" : 11,
     "offsetX" : 4416,
+    "bar" : 26,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -4755,6 +4972,7 @@
     "timestamp" : 31448,
     "duration" : 195,
     "offsetX" : 4418,
+    "bar" : 26,
     "notesOn" : [ {
       "duration" : 195,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -4778,6 +4996,7 @@
     "timestamp" : 31643,
     "duration" : 12,
     "offsetX" : 4448,
+    "bar" : 26,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -4793,6 +5012,7 @@
     "timestamp" : 31655,
     "duration" : 185,
     "offsetX" : 4450,
+    "bar" : 26,
     "notesOn" : [ {
       "duration" : 195,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -4808,6 +5028,7 @@
     "timestamp" : 31840,
     "duration" : 10,
     "offsetX" : 4479,
+    "bar" : 26,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -4823,6 +5044,7 @@
     "timestamp" : 31850,
     "duration" : 12,
     "offsetX" : 4481,
+    "bar" : 26,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -4838,6 +5060,7 @@
     "timestamp" : 31862,
     "duration" : 195,
     "offsetX" : 4483,
+    "bar" : 26,
     "notesOn" : [ {
       "duration" : 195,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -4861,6 +5084,7 @@
     "timestamp" : 32057,
     "duration" : 11,
     "offsetX" : 4514,
+    "bar" : 26,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -4876,6 +5100,7 @@
     "timestamp" : 32068,
     "duration" : 186,
     "offsetX" : 4516,
+    "bar" : 26,
     "notesOn" : [ {
       "duration" : 196,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -4891,6 +5116,7 @@
     "timestamp" : 32254,
     "duration" : 10,
     "offsetX" : 4562,
+    "bar" : 27,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -4906,6 +5132,7 @@
     "timestamp" : 32264,
     "duration" : 11,
     "offsetX" : 4565,
+    "bar" : 27,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -4921,6 +5148,7 @@
     "timestamp" : 32275,
     "duration" : 393,
     "offsetX" : 4568,
+    "bar" : 27,
     "notesOn" : [ {
       "duration" : 393,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -4960,6 +5188,7 @@
     "timestamp" : 32668,
     "duration" : 21,
     "offsetX" : 4612,
+    "bar" : 27,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -4999,6 +5228,7 @@
     "timestamp" : 32689,
     "duration" : 393,
     "offsetX" : 4615,
+    "bar" : 27,
     "notesOn" : [ {
       "duration" : 786,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -5038,6 +5268,7 @@
     "timestamp" : 33082,
     "duration" : 21,
     "offsetX" : 4659,
+    "bar" : 27,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -5053,6 +5284,7 @@
     "timestamp" : 33103,
     "duration" : 372,
     "offsetX" : 4662,
+    "bar" : 27,
     "notesOn" : [ {
       "duration" : 393,
       "noteType" : "LEFT_HAND_CHORD",
@@ -5068,6 +5300,7 @@
     "timestamp" : 33475,
     "duration" : 21,
     "offsetX" : 4720,
+    "bar" : 28,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -5099,6 +5332,7 @@
     "timestamp" : 33496,
     "duration" : 21,
     "offsetX" : 4723,
+    "bar" : 28,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -5114,6 +5348,7 @@
     "timestamp" : 33517,
     "duration" : 195,
     "offsetX" : 4727,
+    "bar" : 28,
     "notesOn" : [ {
       "duration" : 195,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -5137,6 +5372,7 @@
     "timestamp" : 33712,
     "duration" : 12,
     "offsetX" : 4758,
+    "bar" : 28,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -5152,6 +5388,7 @@
     "timestamp" : 33724,
     "duration" : 185,
     "offsetX" : 4760,
+    "bar" : 28,
     "notesOn" : [ {
       "duration" : 195,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -5167,6 +5404,7 @@
     "timestamp" : 33909,
     "duration" : 10,
     "offsetX" : 4790,
+    "bar" : 28,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -5182,6 +5420,7 @@
     "timestamp" : 33919,
     "duration" : 12,
     "offsetX" : 4792,
+    "bar" : 28,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -5197,6 +5436,7 @@
     "timestamp" : 33931,
     "duration" : 195,
     "offsetX" : 4794,
+    "bar" : 28,
     "notesOn" : [ {
       "duration" : 195,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -5220,6 +5460,7 @@
     "timestamp" : 34126,
     "duration" : 11,
     "offsetX" : 4824,
+    "bar" : 28,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -5235,6 +5476,7 @@
     "timestamp" : 34137,
     "duration" : 186,
     "offsetX" : 4826,
+    "bar" : 28,
     "notesOn" : [ {
       "duration" : 196,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -5250,6 +5492,7 @@
     "timestamp" : 34323,
     "duration" : 10,
     "offsetX" : 4855,
+    "bar" : 28,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -5265,6 +5508,7 @@
     "timestamp" : 34333,
     "duration" : 11,
     "offsetX" : 4857,
+    "bar" : 28,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -5280,6 +5524,7 @@
     "timestamp" : 34344,
     "duration" : 196,
     "offsetX" : 4859,
+    "bar" : 28,
     "notesOn" : [ {
       "duration" : 196,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -5303,6 +5548,7 @@
     "timestamp" : 34540,
     "duration" : 11,
     "offsetX" : 4890,
+    "bar" : 28,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -5318,6 +5564,7 @@
     "timestamp" : 34551,
     "duration" : 186,
     "offsetX" : 4892,
+    "bar" : 28,
     "notesOn" : [ {
       "duration" : 196,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -5333,6 +5580,7 @@
     "timestamp" : 34737,
     "duration" : 10,
     "offsetX" : 4939,
+    "bar" : 29,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -5348,6 +5596,7 @@
     "timestamp" : 34747,
     "duration" : 11,
     "offsetX" : 4942,
+    "bar" : 29,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -5363,6 +5612,7 @@
     "timestamp" : 34758,
     "duration" : 196,
     "offsetX" : 4945,
+    "bar" : 29,
     "notesOn" : [ {
       "duration" : 196,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -5386,6 +5636,7 @@
     "timestamp" : 34954,
     "duration" : 11,
     "offsetX" : 4977,
+    "bar" : 29,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -5401,6 +5652,7 @@
     "timestamp" : 34965,
     "duration" : 186,
     "offsetX" : 4979,
+    "bar" : 29,
     "notesOn" : [ {
       "duration" : 196,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -5416,6 +5668,7 @@
     "timestamp" : 35151,
     "duration" : 10,
     "offsetX" : 5006,
+    "bar" : 29,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -5431,6 +5684,7 @@
     "timestamp" : 35161,
     "duration" : 11,
     "offsetX" : 5008,
+    "bar" : 29,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -5446,6 +5700,7 @@
     "timestamp" : 35172,
     "duration" : 196,
     "offsetX" : 5010,
+    "bar" : 29,
     "notesOn" : [ {
       "duration" : 196,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -5469,6 +5724,7 @@
     "timestamp" : 35368,
     "duration" : 11,
     "offsetX" : 5041,
+    "bar" : 29,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -5484,6 +5740,7 @@
     "timestamp" : 35379,
     "duration" : 186,
     "offsetX" : 5043,
+    "bar" : 29,
     "notesOn" : [ {
       "duration" : 196,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -5499,6 +5756,7 @@
     "timestamp" : 35565,
     "duration" : 10,
     "offsetX" : 5071,
+    "bar" : 29,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -5514,6 +5772,7 @@
     "timestamp" : 35575,
     "duration" : 11,
     "offsetX" : 5073,
+    "bar" : 29,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -5529,6 +5788,7 @@
     "timestamp" : 35586,
     "duration" : 195,
     "offsetX" : 5075,
+    "bar" : 29,
     "notesOn" : [ {
       "duration" : 195,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -5552,6 +5812,7 @@
     "timestamp" : 35781,
     "duration" : 12,
     "offsetX" : 5106,
+    "bar" : 29,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -5567,6 +5828,7 @@
     "timestamp" : 35793,
     "duration" : 185,
     "offsetX" : 5108,
+    "bar" : 29,
     "notesOn" : [ {
       "duration" : 195,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -5582,6 +5844,7 @@
     "timestamp" : 35978,
     "duration" : 10,
     "offsetX" : 5153,
+    "bar" : 30,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -5597,6 +5860,7 @@
     "timestamp" : 35988,
     "duration" : 12,
     "offsetX" : 5156,
+    "bar" : 30,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -5612,6 +5876,7 @@
     "timestamp" : 36000,
     "duration" : 195,
     "offsetX" : 5159,
+    "bar" : 30,
     "notesOn" : [ {
       "duration" : 195,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -5635,6 +5900,7 @@
     "timestamp" : 36195,
     "duration" : 11,
     "offsetX" : 5191,
+    "bar" : 30,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -5650,6 +5916,7 @@
     "timestamp" : 36206,
     "duration" : 186,
     "offsetX" : 5193,
+    "bar" : 30,
     "notesOn" : [ {
       "duration" : 196,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -5665,6 +5932,7 @@
     "timestamp" : 36392,
     "duration" : 10,
     "offsetX" : 5221,
+    "bar" : 30,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -5680,6 +5948,7 @@
     "timestamp" : 36402,
     "duration" : 11,
     "offsetX" : 5223,
+    "bar" : 30,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -5695,6 +5964,7 @@
     "timestamp" : 36413,
     "duration" : 196,
     "offsetX" : 5225,
+    "bar" : 30,
     "notesOn" : [ {
       "duration" : 196,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -5718,6 +5988,7 @@
     "timestamp" : 36609,
     "duration" : 11,
     "offsetX" : 5256,
+    "bar" : 30,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -5733,6 +6004,7 @@
     "timestamp" : 36620,
     "duration" : 186,
     "offsetX" : 5258,
+    "bar" : 30,
     "notesOn" : [ {
       "duration" : 196,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -5748,6 +6020,7 @@
     "timestamp" : 36806,
     "duration" : 10,
     "offsetX" : 5285,
+    "bar" : 30,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -5763,6 +6036,7 @@
     "timestamp" : 36816,
     "duration" : 11,
     "offsetX" : 5287,
+    "bar" : 30,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -5778,6 +6052,7 @@
     "timestamp" : 36827,
     "duration" : 196,
     "offsetX" : 5289,
+    "bar" : 30,
     "notesOn" : [ {
       "duration" : 196,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -5801,6 +6076,7 @@
     "timestamp" : 37023,
     "duration" : 11,
     "offsetX" : 5320,
+    "bar" : 30,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -5816,6 +6092,7 @@
     "timestamp" : 37034,
     "duration" : 186,
     "offsetX" : 5322,
+    "bar" : 30,
     "notesOn" : [ {
       "duration" : 196,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -5831,6 +6108,7 @@
     "timestamp" : 37220,
     "duration" : 10,
     "offsetX" : 5367,
+    "bar" : 31,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -5846,6 +6124,7 @@
     "timestamp" : 37230,
     "duration" : 11,
     "offsetX" : 5370,
+    "bar" : 31,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -5861,6 +6140,7 @@
     "timestamp" : 37241,
     "duration" : 393,
     "offsetX" : 5373,
+    "bar" : 31,
     "notesOn" : [ {
       "duration" : 393,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -5892,6 +6172,7 @@
     "timestamp" : 37634,
     "duration" : 21,
     "offsetX" : 5418,
+    "bar" : 31,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -5923,6 +6204,7 @@
     "timestamp" : 37655,
     "duration" : 392,
     "offsetX" : 5421,
+    "bar" : 31,
     "notesOn" : [ {
       "duration" : 785,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -5954,6 +6236,7 @@
     "timestamp" : 38047,
     "duration" : 21,
     "offsetX" : 5464,
+    "bar" : 31,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -5969,6 +6252,7 @@
     "timestamp" : 38068,
     "duration" : 372,
     "offsetX" : 5467,
+    "bar" : 31,
     "notesOn" : [ {
       "duration" : 393,
       "noteType" : "LEFT_HAND_CHORD",
@@ -5984,6 +6268,7 @@
     "timestamp" : 38440,
     "duration" : 21,
     "offsetX" : 5525,
+    "bar" : 32,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -6007,6 +6292,7 @@
     "timestamp" : 38461,
     "duration" : 21,
     "offsetX" : 5528,
+    "bar" : 32,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -6022,6 +6308,7 @@
     "timestamp" : 38482,
     "duration" : 196,
     "offsetX" : 5532,
+    "bar" : 32,
     "notesOn" : [ {
       "duration" : 196,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -6045,6 +6332,7 @@
     "timestamp" : 38678,
     "duration" : 11,
     "offsetX" : 5566,
+    "bar" : 32,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -6060,6 +6348,7 @@
     "timestamp" : 38689,
     "duration" : 186,
     "offsetX" : 5568,
+    "bar" : 32,
     "notesOn" : [ {
       "duration" : 196,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -6075,6 +6364,7 @@
     "timestamp" : 38875,
     "duration" : 10,
     "offsetX" : 5597,
+    "bar" : 32,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -6090,6 +6380,7 @@
     "timestamp" : 38885,
     "duration" : 11,
     "offsetX" : 5599,
+    "bar" : 32,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -6105,6 +6396,7 @@
     "timestamp" : 38896,
     "duration" : 196,
     "offsetX" : 5601,
+    "bar" : 32,
     "notesOn" : [ {
       "duration" : 196,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -6128,6 +6420,7 @@
     "timestamp" : 39092,
     "duration" : 11,
     "offsetX" : 5632,
+    "bar" : 32,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -6143,6 +6436,7 @@
     "timestamp" : 39103,
     "duration" : 186,
     "offsetX" : 5634,
+    "bar" : 32,
     "notesOn" : [ {
       "duration" : 196,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -6158,6 +6452,7 @@
     "timestamp" : 39289,
     "duration" : 10,
     "offsetX" : 5663,
+    "bar" : 32,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -6173,6 +6468,7 @@
     "timestamp" : 39299,
     "duration" : 11,
     "offsetX" : 5665,
+    "bar" : 32,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -6188,6 +6484,7 @@
     "timestamp" : 39310,
     "duration" : 196,
     "offsetX" : 5667,
+    "bar" : 32,
     "notesOn" : [ {
       "duration" : 196,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -6211,6 +6508,7 @@
     "timestamp" : 39506,
     "duration" : 11,
     "offsetX" : 5698,
+    "bar" : 32,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -6226,6 +6524,7 @@
     "timestamp" : 39517,
     "duration" : 186,
     "offsetX" : 5700,
+    "bar" : 32,
     "notesOn" : [ {
       "duration" : 195,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -6241,6 +6540,7 @@
     "timestamp" : 39703,
     "duration" : 9,
     "offsetX" : 5745,
+    "bar" : 33,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -6256,6 +6556,7 @@
     "timestamp" : 39712,
     "duration" : 12,
     "offsetX" : 5748,
+    "bar" : 33,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -6271,6 +6572,7 @@
     "timestamp" : 39724,
     "duration" : 392,
     "offsetX" : 5751,
+    "bar" : 33,
     "notesOn" : [ {
       "duration" : 392,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -6294,6 +6596,7 @@
     "timestamp" : 40116,
     "duration" : 21,
     "offsetX" : 5796,
+    "bar" : 33,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -6317,6 +6620,7 @@
     "timestamp" : 40137,
     "duration" : 393,
     "offsetX" : 5799,
+    "bar" : 33,
     "notesOn" : [ {
       "duration" : 393,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -6348,6 +6652,7 @@
     "timestamp" : 40530,
     "duration" : 21,
     "offsetX" : 5843,
+    "bar" : 33,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -6379,6 +6684,7 @@
     "timestamp" : 40551,
     "duration" : 393,
     "offsetX" : 5846,
+    "bar" : 33,
     "notesOn" : [ {
       "duration" : 393,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -6410,6 +6716,7 @@
     "timestamp" : 40944,
     "duration" : 21,
     "offsetX" : 5926,
+    "bar" : 34,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -6441,6 +6748,7 @@
     "timestamp" : 40965,
     "duration" : 207,
     "offsetX" : 5931,
+    "bar" : 34,
     "notesOn" : [ {
       "duration" : 828,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -6464,6 +6772,7 @@
     "timestamp" : 41172,
     "duration" : 186,
     "offsetX" : 5963,
+    "bar" : 34,
     "notesOn" : [ {
       "duration" : 196,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -6479,6 +6788,7 @@
     "timestamp" : 41358,
     "duration" : 10,
     "offsetX" : 5992,
+    "bar" : 34,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -6494,6 +6804,7 @@
     "timestamp" : 41368,
     "duration" : 11,
     "offsetX" : 5994,
+    "bar" : 34,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -6509,6 +6820,7 @@
     "timestamp" : 41379,
     "duration" : 196,
     "offsetX" : 5996,
+    "bar" : 34,
     "notesOn" : [ {
       "duration" : 196,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -6532,6 +6844,7 @@
     "timestamp" : 41575,
     "duration" : 11,
     "offsetX" : 6026,
+    "bar" : 34,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -6547,6 +6860,7 @@
     "timestamp" : 41586,
     "duration" : 185,
     "offsetX" : 6028,
+    "bar" : 34,
     "notesOn" : [ {
       "duration" : 195,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -6562,6 +6876,7 @@
     "timestamp" : 41771,
     "duration" : 10,
     "offsetX" : 6072,
+    "bar" : 34,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -6577,6 +6892,7 @@
     "timestamp" : 41781,
     "duration" : 12,
     "offsetX" : 6075,
+    "bar" : 34,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -6592,6 +6908,7 @@
     "timestamp" : 41792,
     "duration" : 0,
     "offsetX" : 6077,
+    "bar" : 34,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -6607,6 +6924,7 @@
     "timestamp" : 41793,
     "duration" : 392,
     "offsetX" : 6078,
+    "bar" : 34,
     "notesOn" : [ {
       "duration" : 392,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -6654,6 +6972,7 @@
     "timestamp" : 42185,
     "duration" : 21,
     "offsetX" : 6122,
+    "bar" : 35,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -6701,6 +7020,7 @@
     "timestamp" : 42206,
     "duration" : 393,
     "offsetX" : 6125,
+    "bar" : 35,
     "notesOn" : [ {
       "duration" : 393,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -6740,6 +7060,7 @@
     "timestamp" : 42599,
     "duration" : 21,
     "offsetX" : 6167,
+    "bar" : 35,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -6771,6 +7092,7 @@
     "timestamp" : 42620,
     "duration" : 393,
     "offsetX" : 6170,
+    "bar" : 35,
     "notesOn" : [ {
       "duration" : 786,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -6802,6 +7124,7 @@
     "timestamp" : 43013,
     "duration" : 21,
     "offsetX" : 6214,
+    "bar" : 35,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -6817,6 +7140,7 @@
     "timestamp" : 43034,
     "duration" : 372,
     "offsetX" : 6217,
+    "bar" : 35,
     "notesOn" : [ {
       "duration" : 393,
       "noteType" : "LEFT_HAND_CHORD",
@@ -6832,6 +7156,7 @@
     "timestamp" : 43406,
     "duration" : 21,
     "offsetX" : 6275,
+    "bar" : 36,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -6855,6 +7180,7 @@
     "timestamp" : 43427,
     "duration" : 21,
     "offsetX" : 6278,
+    "bar" : 36,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -6870,6 +7196,7 @@
     "timestamp" : 43447,
     "duration" : 0,
     "offsetX" : 6281,
+    "bar" : 36,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -6885,6 +7212,7 @@
     "timestamp" : 43448,
     "duration" : 195,
     "offsetX" : 6282,
+    "bar" : 36,
     "notesOn" : [ {
       "duration" : 195,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -6908,6 +7236,7 @@
     "timestamp" : 43643,
     "duration" : 12,
     "offsetX" : 6314,
+    "bar" : 36,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -6923,6 +7252,7 @@
     "timestamp" : 43655,
     "duration" : 185,
     "offsetX" : 6316,
+    "bar" : 36,
     "notesOn" : [ {
       "duration" : 195,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -6938,6 +7268,7 @@
     "timestamp" : 43840,
     "duration" : 10,
     "offsetX" : 6345,
+    "bar" : 36,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -6953,6 +7284,7 @@
     "timestamp" : 43850,
     "duration" : 12,
     "offsetX" : 6347,
+    "bar" : 36,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -6968,6 +7300,7 @@
     "timestamp" : 43862,
     "duration" : 195,
     "offsetX" : 6349,
+    "bar" : 36,
     "notesOn" : [ {
       "duration" : 195,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -6991,6 +7324,7 @@
     "timestamp" : 44057,
     "duration" : 11,
     "offsetX" : 6379,
+    "bar" : 36,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -7006,6 +7340,7 @@
     "timestamp" : 44068,
     "duration" : 186,
     "offsetX" : 6381,
+    "bar" : 36,
     "notesOn" : [ {
       "duration" : 196,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -7021,6 +7356,7 @@
     "timestamp" : 44254,
     "duration" : 10,
     "offsetX" : 6411,
+    "bar" : 36,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -7036,6 +7372,7 @@
     "timestamp" : 44264,
     "duration" : 11,
     "offsetX" : 6413,
+    "bar" : 36,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -7051,6 +7388,7 @@
     "timestamp" : 44275,
     "duration" : 196,
     "offsetX" : 6415,
+    "bar" : 36,
     "notesOn" : [ {
       "duration" : 196,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -7074,6 +7412,7 @@
     "timestamp" : 44471,
     "duration" : 11,
     "offsetX" : 6445,
+    "bar" : 36,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -7089,6 +7428,7 @@
     "timestamp" : 44482,
     "duration" : 186,
     "offsetX" : 6447,
+    "bar" : 36,
     "notesOn" : [ {
       "duration" : 196,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -7104,6 +7444,7 @@
     "timestamp" : 44668,
     "duration" : 10,
     "offsetX" : 6493,
+    "bar" : 37,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -7119,6 +7460,7 @@
     "timestamp" : 44678,
     "duration" : 11,
     "offsetX" : 6496,
+    "bar" : 37,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -7134,6 +7476,7 @@
     "timestamp" : 44689,
     "duration" : 393,
     "offsetX" : 6499,
+    "bar" : 37,
     "notesOn" : [ {
       "duration" : 786,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -7173,6 +7516,7 @@
     "timestamp" : 45082,
     "duration" : 21,
     "offsetX" : 6543,
+    "bar" : 37,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -7188,6 +7532,7 @@
     "timestamp" : 45103,
     "duration" : 372,
     "offsetX" : 6546,
+    "bar" : 37,
     "notesOn" : [ {
       "duration" : 393,
       "noteType" : "LEFT_HAND_CHORD",
@@ -7203,6 +7548,7 @@
     "timestamp" : 45475,
     "duration" : 21,
     "offsetX" : 6588,
+    "bar" : 37,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -7234,6 +7580,7 @@
     "timestamp" : 45496,
     "duration" : 21,
     "offsetX" : 6590,
+    "bar" : 37,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -7249,6 +7596,7 @@
     "timestamp" : 45517,
     "duration" : 392,
     "offsetX" : 6593,
+    "bar" : 37,
     "notesOn" : [ {
       "duration" : 392,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -7288,6 +7636,7 @@
     "timestamp" : 45909,
     "duration" : 22,
     "offsetX" : 6654,
+    "bar" : 38,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -7327,6 +7676,7 @@
     "timestamp" : 45931,
     "duration" : 392,
     "offsetX" : 6658,
+    "bar" : 38,
     "notesOn" : [ {
       "duration" : 785,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -7358,6 +7708,7 @@
     "timestamp" : 46323,
     "duration" : 21,
     "offsetX" : 6699,
+    "bar" : 38,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -7373,6 +7724,7 @@
     "timestamp" : 46344,
     "duration" : 372,
     "offsetX" : 6702,
+    "bar" : 38,
     "notesOn" : [ {
       "duration" : 393,
       "noteType" : "LEFT_HAND_CHORD",
@@ -7388,6 +7740,7 @@
     "timestamp" : 46716,
     "duration" : 21,
     "offsetX" : 6742,
+    "bar" : 38,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -7411,6 +7764,7 @@
     "timestamp" : 46737,
     "duration" : 21,
     "offsetX" : 6744,
+    "bar" : 38,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -7426,6 +7780,7 @@
     "timestamp" : 46758,
     "duration" : 393,
     "offsetX" : 6747,
+    "bar" : 38,
     "notesOn" : [ {
       "duration" : 393,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -7457,6 +7812,7 @@
     "timestamp" : 47151,
     "duration" : 21,
     "offsetX" : 6809,
+    "bar" : 39,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -7488,6 +7844,7 @@
     "timestamp" : 47172,
     "duration" : 393,
     "offsetX" : 6813,
+    "bar" : 39,
     "notesOn" : [ {
       "duration" : 393,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -7519,6 +7876,7 @@
     "timestamp" : 47565,
     "duration" : 21,
     "offsetX" : 6857,
+    "bar" : 39,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -7550,6 +7908,7 @@
     "timestamp" : 47586,
     "duration" : 392,
     "offsetX" : 6860,
+    "bar" : 39,
     "notesOn" : [ {
       "duration" : 785,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -7573,6 +7932,7 @@
     "timestamp" : 47978,
     "duration" : 22,
     "offsetX" : 6903,
+    "bar" : 39,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -7588,6 +7948,7 @@
     "timestamp" : 48000,
     "duration" : 371,
     "offsetX" : 6906,
+    "bar" : 39,
     "notesOn" : [ {
       "duration" : 392,
       "noteType" : "LEFT_HAND_CHORD",
@@ -7603,6 +7964,7 @@
     "timestamp" : 48371,
     "duration" : 21,
     "offsetX" : 6965,
+    "bar" : 40,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -7618,6 +7980,7 @@
     "timestamp" : 48392,
     "duration" : 21,
     "offsetX" : 6968,
+    "bar" : 40,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -7633,6 +7996,7 @@
     "timestamp" : 48413,
     "duration" : 196,
     "offsetX" : 6972,
+    "bar" : 40,
     "notesOn" : [ {
       "duration" : 196,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -7656,6 +8020,7 @@
     "timestamp" : 48609,
     "duration" : 11,
     "offsetX" : 7006,
+    "bar" : 40,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -7671,6 +8036,7 @@
     "timestamp" : 48620,
     "duration" : 186,
     "offsetX" : 7008,
+    "bar" : 40,
     "notesOn" : [ {
       "duration" : 196,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -7686,6 +8052,7 @@
     "timestamp" : 48806,
     "duration" : 10,
     "offsetX" : 7039,
+    "bar" : 40,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -7701,6 +8068,7 @@
     "timestamp" : 48816,
     "duration" : 11,
     "offsetX" : 7041,
+    "bar" : 40,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -7716,6 +8084,7 @@
     "timestamp" : 48827,
     "duration" : 196,
     "offsetX" : 7043,
+    "bar" : 40,
     "notesOn" : [ {
       "duration" : 196,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -7739,6 +8108,7 @@
     "timestamp" : 49023,
     "duration" : 11,
     "offsetX" : 7074,
+    "bar" : 40,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -7754,6 +8124,7 @@
     "timestamp" : 49034,
     "duration" : 186,
     "offsetX" : 7076,
+    "bar" : 40,
     "notesOn" : [ {
       "duration" : 196,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -7769,6 +8140,7 @@
     "timestamp" : 49220,
     "duration" : 10,
     "offsetX" : 7104,
+    "bar" : 40,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -7784,6 +8156,7 @@
     "timestamp" : 49230,
     "duration" : 11,
     "offsetX" : 7106,
+    "bar" : 40,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -7799,6 +8172,7 @@
     "timestamp" : 49241,
     "duration" : 196,
     "offsetX" : 7108,
+    "bar" : 40,
     "notesOn" : [ {
       "duration" : 196,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -7822,6 +8196,7 @@
     "timestamp" : 49437,
     "duration" : 11,
     "offsetX" : 7138,
+    "bar" : 40,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -7837,6 +8212,7 @@
     "timestamp" : 49448,
     "duration" : 186,
     "offsetX" : 7140,
+    "bar" : 40,
     "notesOn" : [ {
       "duration" : 195,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -7852,6 +8228,7 @@
     "timestamp" : 49634,
     "duration" : 9,
     "offsetX" : 7186,
+    "bar" : 41,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -7867,6 +8244,7 @@
     "timestamp" : 49643,
     "duration" : 12,
     "offsetX" : 7188,
+    "bar" : 41,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -7882,6 +8260,7 @@
     "timestamp" : 49655,
     "duration" : 392,
     "offsetX" : 7192,
+    "bar" : 41,
     "notesOn" : [ {
       "duration" : 392,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -7905,6 +8284,7 @@
     "timestamp" : 50047,
     "duration" : 21,
     "offsetX" : 7236,
+    "bar" : 41,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -7928,6 +8308,7 @@
     "timestamp" : 50068,
     "duration" : 393,
     "offsetX" : 7239,
+    "bar" : 41,
     "notesOn" : [ {
       "duration" : 393,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -7959,6 +8340,7 @@
     "timestamp" : 50461,
     "duration" : 21,
     "offsetX" : 7282,
+    "bar" : 41,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -7990,6 +8372,7 @@
     "timestamp" : 50482,
     "duration" : 393,
     "offsetX" : 7285,
+    "bar" : 41,
     "notesOn" : [ {
       "duration" : 393,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -8021,6 +8404,7 @@
     "timestamp" : 50875,
     "duration" : 21,
     "offsetX" : 7364,
+    "bar" : 42,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -8052,6 +8436,7 @@
     "timestamp" : 50896,
     "duration" : 207,
     "offsetX" : 7369,
+    "bar" : 42,
     "notesOn" : [ {
       "duration" : 828,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -8075,6 +8460,7 @@
     "timestamp" : 51103,
     "duration" : 186,
     "offsetX" : 7401,
+    "bar" : 42,
     "notesOn" : [ {
       "duration" : 196,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -8090,6 +8476,7 @@
     "timestamp" : 51289,
     "duration" : 10,
     "offsetX" : 7430,
+    "bar" : 42,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -8105,6 +8492,7 @@
     "timestamp" : 51299,
     "duration" : 11,
     "offsetX" : 7432,
+    "bar" : 42,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -8120,6 +8508,7 @@
     "timestamp" : 51310,
     "duration" : 196,
     "offsetX" : 7434,
+    "bar" : 42,
     "notesOn" : [ {
       "duration" : 196,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -8143,6 +8532,7 @@
     "timestamp" : 51506,
     "duration" : 11,
     "offsetX" : 7465,
+    "bar" : 42,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -8158,6 +8548,7 @@
     "timestamp" : 51517,
     "duration" : 186,
     "offsetX" : 7467,
+    "bar" : 42,
     "notesOn" : [ {
       "duration" : 195,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -8173,6 +8564,7 @@
     "timestamp" : 51703,
     "duration" : 9,
     "offsetX" : 7511,
+    "bar" : 42,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -8188,6 +8580,7 @@
     "timestamp" : 51712,
     "duration" : 12,
     "offsetX" : 7514,
+    "bar" : 42,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -8203,6 +8596,7 @@
     "timestamp" : 51723,
     "duration" : 0,
     "offsetX" : 7516,
+    "bar" : 42,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -8218,6 +8612,7 @@
     "timestamp" : 51724,
     "duration" : 392,
     "offsetX" : 7517,
+    "bar" : 42,
     "notesOn" : [ {
       "duration" : 392,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -8265,6 +8660,7 @@
     "timestamp" : 52116,
     "duration" : 21,
     "offsetX" : 7560,
+    "bar" : 43,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -8312,6 +8708,7 @@
     "timestamp" : 52137,
     "duration" : 393,
     "offsetX" : 7563,
+    "bar" : 43,
     "notesOn" : [ {
       "duration" : 393,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -8351,6 +8748,7 @@
     "timestamp" : 52530,
     "duration" : 21,
     "offsetX" : 7605,
+    "bar" : 43,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -8382,6 +8780,7 @@
     "timestamp" : 52551,
     "duration" : 393,
     "offsetX" : 7608,
+    "bar" : 43,
     "notesOn" : [ {
       "duration" : 786,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -8413,6 +8812,7 @@
     "timestamp" : 52944,
     "duration" : 21,
     "offsetX" : 7652,
+    "bar" : 43,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -8428,6 +8828,7 @@
     "timestamp" : 52965,
     "duration" : 372,
     "offsetX" : 7655,
+    "bar" : 43,
     "notesOn" : [ {
       "duration" : 393,
       "noteType" : "LEFT_HAND_CHORD",
@@ -8443,6 +8844,7 @@
     "timestamp" : 53337,
     "duration" : 21,
     "offsetX" : 7713,
+    "bar" : 44,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -8466,6 +8868,7 @@
     "timestamp" : 53358,
     "duration" : 21,
     "offsetX" : 7716,
+    "bar" : 44,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -8481,6 +8884,7 @@
     "timestamp" : 53378,
     "duration" : 0,
     "offsetX" : 7719,
+    "bar" : 44,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -8496,6 +8900,7 @@
     "timestamp" : 53379,
     "duration" : 196,
     "offsetX" : 7720,
+    "bar" : 44,
     "notesOn" : [ {
       "duration" : 196,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -8519,6 +8924,7 @@
     "timestamp" : 53575,
     "duration" : 11,
     "offsetX" : 7752,
+    "bar" : 44,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -8534,6 +8940,7 @@
     "timestamp" : 53586,
     "duration" : 185,
     "offsetX" : 7754,
+    "bar" : 44,
     "notesOn" : [ {
       "duration" : 195,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -8549,6 +8956,7 @@
     "timestamp" : 53771,
     "duration" : 10,
     "offsetX" : 7783,
+    "bar" : 44,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -8564,6 +8972,7 @@
     "timestamp" : 53781,
     "duration" : 12,
     "offsetX" : 7785,
+    "bar" : 44,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -8579,6 +8988,7 @@
     "timestamp" : 53793,
     "duration" : 195,
     "offsetX" : 7787,
+    "bar" : 44,
     "notesOn" : [ {
       "duration" : 195,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -8602,6 +9012,7 @@
     "timestamp" : 53988,
     "duration" : 12,
     "offsetX" : 7818,
+    "bar" : 44,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -8617,6 +9028,7 @@
     "timestamp" : 54000,
     "duration" : 185,
     "offsetX" : 7820,
+    "bar" : 44,
     "notesOn" : [ {
       "duration" : 195,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -8632,6 +9044,7 @@
     "timestamp" : 54185,
     "duration" : 10,
     "offsetX" : 7849,
+    "bar" : 44,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -8647,6 +9060,7 @@
     "timestamp" : 54195,
     "duration" : 11,
     "offsetX" : 7851,
+    "bar" : 44,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -8662,6 +9076,7 @@
     "timestamp" : 54206,
     "duration" : 196,
     "offsetX" : 7853,
+    "bar" : 44,
     "notesOn" : [ {
       "duration" : 196,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -8685,6 +9100,7 @@
     "timestamp" : 54402,
     "duration" : 11,
     "offsetX" : 7884,
+    "bar" : 44,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -8700,6 +9116,7 @@
     "timestamp" : 54413,
     "duration" : 186,
     "offsetX" : 7886,
+    "bar" : 44,
     "notesOn" : [ {
       "duration" : 196,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -8715,6 +9132,7 @@
     "timestamp" : 54599,
     "duration" : 10,
     "offsetX" : 7931,
+    "bar" : 45,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -8730,6 +9148,7 @@
     "timestamp" : 54609,
     "duration" : 11,
     "offsetX" : 7934,
+    "bar" : 45,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -8745,6 +9164,7 @@
     "timestamp" : 54620,
     "duration" : 393,
     "offsetX" : 7937,
+    "bar" : 45,
     "notesOn" : [ {
       "duration" : 786,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -8784,6 +9204,7 @@
     "timestamp" : 55013,
     "duration" : 21,
     "offsetX" : 7981,
+    "bar" : 45,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -8799,6 +9220,7 @@
     "timestamp" : 55034,
     "duration" : 372,
     "offsetX" : 7984,
+    "bar" : 45,
     "notesOn" : [ {
       "duration" : 393,
       "noteType" : "LEFT_HAND_CHORD",
@@ -8814,6 +9236,7 @@
     "timestamp" : 55406,
     "duration" : 21,
     "offsetX" : 8026,
+    "bar" : 45,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -8845,6 +9268,7 @@
     "timestamp" : 55427,
     "duration" : 21,
     "offsetX" : 8028,
+    "bar" : 45,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -8860,6 +9284,7 @@
     "timestamp" : 55448,
     "duration" : 392,
     "offsetX" : 8031,
+    "bar" : 45,
     "notesOn" : [ {
       "duration" : 392,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -8899,6 +9324,7 @@
     "timestamp" : 55840,
     "duration" : 22,
     "offsetX" : 8092,
+    "bar" : 46,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -8938,6 +9364,7 @@
     "timestamp" : 55862,
     "duration" : 392,
     "offsetX" : 8096,
+    "bar" : 46,
     "notesOn" : [ {
       "duration" : 785,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -8969,6 +9396,7 @@
     "timestamp" : 56254,
     "duration" : 21,
     "offsetX" : 8137,
+    "bar" : 46,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -8984,6 +9412,7 @@
     "timestamp" : 56275,
     "duration" : 372,
     "offsetX" : 8140,
+    "bar" : 46,
     "notesOn" : [ {
       "duration" : 393,
       "noteType" : "LEFT_HAND_CHORD",
@@ -8999,6 +9428,7 @@
     "timestamp" : 56647,
     "duration" : 21,
     "offsetX" : 8181,
+    "bar" : 46,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -9022,6 +9452,7 @@
     "timestamp" : 56668,
     "duration" : 21,
     "offsetX" : 8183,
+    "bar" : 46,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -9037,6 +9468,7 @@
     "timestamp" : 56689,
     "duration" : 393,
     "offsetX" : 8186,
+    "bar" : 46,
     "notesOn" : [ {
       "duration" : 393,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -9068,6 +9500,7 @@
     "timestamp" : 57082,
     "duration" : 21,
     "offsetX" : 8247,
+    "bar" : 47,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -9099,6 +9532,7 @@
     "timestamp" : 57103,
     "duration" : 393,
     "offsetX" : 8251,
+    "bar" : 47,
     "notesOn" : [ {
       "duration" : 393,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -9130,6 +9564,7 @@
     "timestamp" : 57496,
     "duration" : 21,
     "offsetX" : 8295,
+    "bar" : 47,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -9161,6 +9596,7 @@
     "timestamp" : 57517,
     "duration" : 392,
     "offsetX" : 8298,
+    "bar" : 47,
     "notesOn" : [ {
       "duration" : 2006,
       "noteType" : "RIGHT_HAND_NOTE",
@@ -9192,6 +9628,7 @@
     "timestamp" : 57909,
     "duration" : 22,
     "offsetX" : 8339,
+    "bar" : 47,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -9207,6 +9644,7 @@
     "timestamp" : 57931,
     "duration" : 392,
     "offsetX" : 8342,
+    "bar" : 47,
     "notesOn" : [ {
       "duration" : 392,
       "noteType" : "LEFT_HAND_CHORD",
@@ -9222,6 +9660,7 @@
     "timestamp" : 58323,
     "duration" : 21,
     "offsetX" : 8403,
+    "bar" : 48,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -9237,6 +9676,7 @@
     "timestamp" : 58344,
     "duration" : 1179,
     "offsetX" : 8407,
+    "bar" : 48,
     "notesOn" : [ {
       "duration" : 1179,
       "noteType" : "LEFT_HAND_CHORD",
@@ -9260,6 +9700,7 @@
     "timestamp" : 59523,
     "duration" : 35,
     "offsetX" : 8521,
+    "bar" : 49,
     "notesOn" : null,
     "notesOff" : [ {
       "duration" : 0,
@@ -9299,5 +9740,6 @@
   "sheetHeight" : 300,
   "id" : null,
   "title" : "A Thin Rowan Tree",
-  "author" : "Russian Folk Song"
+  "author" : "Russian Folk Song",
+  "barOffsets" : [ 22, 255, 414, 572, 790, 945, 1100, 1259, 1478, 1639, 1796, 1953, 2170, 2328, 2483, 2642, 2797, 2955, 3111, 3269, 3486, 3645, 3799, 3955, 4112, 4331, 4549, 4708, 4924, 5140, 5354, 5513, 5732, 5893, 6106, 6263, 6479, 6638, 6793, 6952, 7173, 7331, 7544, 7701, 7918, 8076, 8232, 8388, 8513 ]
 }
