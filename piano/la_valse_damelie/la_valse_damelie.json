@@ -10,15 +10,13 @@
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "ON",
       "noteValue" : 74,
-      "noteName" : "D5",
-      "timestamp" : 0
+      "noteName" : "D5"
     }, {
       "duration" : 1500,
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "ON",
       "noteValue" : 50,
-      "noteName" : "D3",
-      "timestamp" : 0
+      "noteName" : "D3"
     } ]
   }, {
     "index" : 1,
@@ -30,8 +28,7 @@
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "OFF",
       "noteValue" : 50,
-      "noteName" : "D3",
-      "timestamp" : 0
+      "noteName" : "D3"
     } ]
   }, {
     "index" : 2,
@@ -44,15 +41,13 @@
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "ON",
       "noteValue" : 53,
-      "noteName" : "F3",
-      "timestamp" : 0
+      "noteName" : "F3"
     }, {
       "duration" : 1500,
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "ON",
       "noteValue" : 57,
-      "noteName" : "A3",
-      "timestamp" : 0
+      "noteName" : "A3"
     } ]
   }, {
     "index" : 3,
@@ -64,8 +59,7 @@
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "OFF",
       "noteValue" : 74,
-      "noteName" : "D5",
-      "timestamp" : 0
+      "noteName" : "D5"
     } ]
   }, {
     "index" : 4,
@@ -78,8 +72,7 @@
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "ON",
       "noteValue" : 72,
-      "noteName" : "C5",
-      "timestamp" : 0
+      "noteName" : "C5"
     } ]
   }, {
     "index" : 5,
@@ -91,20 +84,17 @@
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "OFF",
       "noteValue" : 72,
-      "noteName" : "C5",
-      "timestamp" : 0
+      "noteName" : "C5"
     }, {
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "OFF",
       "noteValue" : 53,
-      "noteName" : "F3",
-      "timestamp" : 0
+      "noteName" : "F3"
     }, {
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "OFF",
       "noteValue" : 57,
-      "noteName" : "A3",
-      "timestamp" : 0
+      "noteName" : "A3"
     } ]
   }, {
     "index" : 6,
@@ -117,15 +107,13 @@
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "ON",
       "noteValue" : 71,
-      "noteName" : "B4",
-      "timestamp" : 0
+      "noteName" : "B4"
     }, {
       "duration" : 1500,
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "ON",
       "noteValue" : 45,
-      "noteName" : "A2",
-      "timestamp" : 0
+      "noteName" : "A2"
     } ]
   }, {
     "index" : 7,
@@ -137,14 +125,12 @@
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "OFF",
       "noteValue" : 71,
-      "noteName" : "B4",
-      "timestamp" : 0
+      "noteName" : "B4"
     }, {
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "OFF",
       "noteValue" : 45,
-      "noteName" : "A2",
-      "timestamp" : 0
+      "noteName" : "A2"
     } ]
   }, {
     "index" : 8,
@@ -157,22 +143,19 @@
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "ON",
       "noteValue" : 69,
-      "noteName" : "A4",
-      "timestamp" : 0
+      "noteName" : "A4"
     }, {
       "duration" : 1500,
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "ON",
       "noteValue" : 48,
-      "noteName" : "C3",
-      "timestamp" : 0
+      "noteName" : "C3"
     }, {
       "duration" : 1500,
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "ON",
       "noteValue" : 52,
-      "noteName" : "E3",
-      "timestamp" : 0
+      "noteName" : "E3"
     } ]
   }, {
     "index" : 9,
@@ -184,20 +167,17 @@
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "OFF",
       "noteValue" : 69,
-      "noteName" : "A4",
-      "timestamp" : 0
+      "noteName" : "A4"
     }, {
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "OFF",
       "noteValue" : 48,
-      "noteName" : "C3",
-      "timestamp" : 0
+      "noteName" : "C3"
     }, {
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "OFF",
       "noteValue" : 52,
-      "noteName" : "E3",
-      "timestamp" : 0
+      "noteName" : "E3"
     } ]
   }, {
     "index" : 10,
@@ -210,15 +190,13 @@
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "ON",
       "noteValue" : 74,
-      "noteName" : "D5",
-      "timestamp" : 0
+      "noteName" : "D5"
     }, {
       "duration" : 1499,
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "ON",
       "noteValue" : 50,
-      "noteName" : "D3",
-      "timestamp" : 0
+      "noteName" : "D3"
     } ]
   }, {
     "index" : 11,
@@ -230,14 +208,12 @@
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "OFF",
       "noteValue" : 74,
-      "noteName" : "D5",
-      "timestamp" : 0
+      "noteName" : "D5"
     }, {
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "OFF",
       "noteValue" : 50,
-      "noteName" : "D3",
-      "timestamp" : 0
+      "noteName" : "D3"
     } ]
   }, {
     "index" : 12,
@@ -250,22 +226,19 @@
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "ON",
       "noteValue" : 76,
-      "noteName" : "E5",
-      "timestamp" : 0
+      "noteName" : "E5"
     }, {
       "duration" : 1501,
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "ON",
       "noteValue" : 53,
-      "noteName" : "F3",
-      "timestamp" : 0
+      "noteName" : "F3"
     }, {
       "duration" : 1501,
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "ON",
       "noteValue" : 57,
-      "noteName" : "A3",
-      "timestamp" : 0
+      "noteName" : "A3"
     } ]
   }, {
     "index" : 13,
@@ -277,8 +250,7 @@
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "OFF",
       "noteValue" : 76,
-      "noteName" : "E5",
-      "timestamp" : 0
+      "noteName" : "E5"
     } ]
   }, {
     "index" : 14,
@@ -291,8 +263,7 @@
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "ON",
       "noteValue" : 72,
-      "noteName" : "C5",
-      "timestamp" : 0
+      "noteName" : "C5"
     } ]
   }, {
     "index" : 15,
@@ -304,20 +275,17 @@
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "OFF",
       "noteValue" : 72,
-      "noteName" : "C5",
-      "timestamp" : 0
+      "noteName" : "C5"
     }, {
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "OFF",
       "noteValue" : 53,
-      "noteName" : "F3",
-      "timestamp" : 0
+      "noteName" : "F3"
     }, {
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "OFF",
       "noteValue" : 57,
-      "noteName" : "A3",
-      "timestamp" : 0
+      "noteName" : "A3"
     } ]
   }, {
     "index" : 16,
@@ -330,15 +298,13 @@
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "ON",
       "noteValue" : 71,
-      "noteName" : "B4",
-      "timestamp" : 0
+      "noteName" : "B4"
     }, {
       "duration" : 1500,
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "ON",
       "noteValue" : 45,
-      "noteName" : "A2",
-      "timestamp" : 0
+      "noteName" : "A2"
     } ]
   }, {
     "index" : 17,
@@ -350,14 +316,12 @@
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "OFF",
       "noteValue" : 71,
-      "noteName" : "B4",
-      "timestamp" : 0
+      "noteName" : "B4"
     }, {
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "OFF",
       "noteValue" : 45,
-      "noteName" : "A2",
-      "timestamp" : 0
+      "noteName" : "A2"
     } ]
   }, {
     "index" : 18,
@@ -370,22 +334,19 @@
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "ON",
       "noteValue" : 69,
-      "noteName" : "A4",
-      "timestamp" : 0
+      "noteName" : "A4"
     }, {
       "duration" : 1500,
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "ON",
       "noteValue" : 48,
-      "noteName" : "C3",
-      "timestamp" : 0
+      "noteName" : "C3"
     }, {
       "duration" : 1500,
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "ON",
       "noteValue" : 52,
-      "noteName" : "E3",
-      "timestamp" : 0
+      "noteName" : "E3"
     } ]
   }, {
     "index" : 19,
@@ -397,20 +358,17 @@
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "OFF",
       "noteValue" : 69,
-      "noteName" : "A4",
-      "timestamp" : 0
+      "noteName" : "A4"
     }, {
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "OFF",
       "noteValue" : 48,
-      "noteName" : "C3",
-      "timestamp" : 0
+      "noteName" : "C3"
     }, {
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "OFF",
       "noteValue" : 52,
-      "noteName" : "E3",
-      "timestamp" : 0
+      "noteName" : "E3"
     } ]
   }, {
     "index" : 20,
@@ -423,15 +381,13 @@
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "ON",
       "noteValue" : 72,
-      "noteName" : "C5",
-      "timestamp" : 0
+      "noteName" : "C5"
     }, {
       "duration" : 1499,
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "ON",
       "noteValue" : 53,
-      "noteName" : "F3",
-      "timestamp" : 0
+      "noteName" : "F3"
     } ]
   }, {
     "index" : 21,
@@ -443,8 +399,7 @@
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "OFF",
       "noteValue" : 53,
-      "noteName" : "F3",
-      "timestamp" : 0
+      "noteName" : "F3"
     } ]
   }, {
     "index" : 22,
@@ -457,15 +412,13 @@
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "ON",
       "noteValue" : 57,
-      "noteName" : "A3",
-      "timestamp" : 0
+      "noteName" : "A3"
     }, {
       "duration" : 1500,
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "ON",
       "noteValue" : 60,
-      "noteName" : "C4",
-      "timestamp" : 0
+      "noteName" : "C4"
     } ]
   }, {
     "index" : 23,
@@ -477,8 +430,7 @@
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "OFF",
       "noteValue" : 72,
-      "noteName" : "C5",
-      "timestamp" : 0
+      "noteName" : "C5"
     } ]
   }, {
     "index" : 24,
@@ -491,8 +443,7 @@
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "ON",
       "noteValue" : 71,
-      "noteName" : "B4",
-      "timestamp" : 0
+      "noteName" : "B4"
     } ]
   }, {
     "index" : 25,
@@ -504,20 +455,17 @@
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "OFF",
       "noteValue" : 71,
-      "noteName" : "B4",
-      "timestamp" : 0
+      "noteName" : "B4"
     }, {
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "OFF",
       "noteValue" : 57,
-      "noteName" : "A3",
-      "timestamp" : 0
+      "noteName" : "A3"
     }, {
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "OFF",
       "noteValue" : 60,
-      "noteName" : "C4",
-      "timestamp" : 0
+      "noteName" : "C4"
     } ]
   }, {
     "index" : 26,
@@ -530,15 +478,13 @@
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "ON",
       "noteValue" : 64,
-      "noteName" : "E4",
-      "timestamp" : 0
+      "noteName" : "E4"
     }, {
       "duration" : 1501,
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "ON",
       "noteValue" : 48,
-      "noteName" : "C3",
-      "timestamp" : 0
+      "noteName" : "C3"
     } ]
   }, {
     "index" : 27,
@@ -550,8 +496,7 @@
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "OFF",
       "noteValue" : 48,
-      "noteName" : "C3",
-      "timestamp" : 0
+      "noteName" : "C3"
     } ]
   }, {
     "index" : 28,
@@ -564,15 +509,13 @@
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "ON",
       "noteValue" : 52,
-      "noteName" : "E3",
-      "timestamp" : 0
+      "noteName" : "E3"
     }, {
       "duration" : 1500,
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "ON",
       "noteValue" : 55,
-      "noteName" : "G3",
-      "timestamp" : 0
+      "noteName" : "G3"
     } ]
   }, {
     "index" : 29,
@@ -584,20 +527,17 @@
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "OFF",
       "noteValue" : 64,
-      "noteName" : "E4",
-      "timestamp" : 0
+      "noteName" : "E4"
     }, {
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "OFF",
       "noteValue" : 52,
-      "noteName" : "E3",
-      "timestamp" : 0
+      "noteName" : "E3"
     }, {
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "OFF",
       "noteValue" : 55,
-      "noteName" : "G3",
-      "timestamp" : 0
+      "noteName" : "G3"
     } ]
   }, {
     "index" : 30,
@@ -610,15 +550,13 @@
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "ON",
       "noteValue" : 72,
-      "noteName" : "C5",
-      "timestamp" : 0
+      "noteName" : "C5"
     }, {
       "duration" : 1500,
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "ON",
       "noteValue" : 53,
-      "noteName" : "F3",
-      "timestamp" : 0
+      "noteName" : "F3"
     } ]
   }, {
     "index" : 31,
@@ -630,8 +568,7 @@
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "OFF",
       "noteValue" : 53,
-      "noteName" : "F3",
-      "timestamp" : 0
+      "noteName" : "F3"
     } ]
   }, {
     "index" : 32,
@@ -644,15 +581,13 @@
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "ON",
       "noteValue" : 57,
-      "noteName" : "A3",
-      "timestamp" : 0
+      "noteName" : "A3"
     }, {
       "duration" : 1500,
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "ON",
       "noteValue" : 60,
-      "noteName" : "C4",
-      "timestamp" : 0
+      "noteName" : "C4"
     } ]
   }, {
     "index" : 33,
@@ -664,8 +599,7 @@
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "OFF",
       "noteValue" : 72,
-      "noteName" : "C5",
-      "timestamp" : 0
+      "noteName" : "C5"
     } ]
   }, {
     "index" : 34,
@@ -678,8 +612,7 @@
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "ON",
       "noteValue" : 74,
-      "noteName" : "D5",
-      "timestamp" : 0
+      "noteName" : "D5"
     } ]
   }, {
     "index" : 35,
@@ -691,8 +624,7 @@
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "OFF",
       "noteValue" : 74,
-      "noteName" : "D5",
-      "timestamp" : 0
+      "noteName" : "D5"
     } ]
   }, {
     "index" : 36,
@@ -705,8 +637,7 @@
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "ON",
       "noteValue" : 72,
-      "noteName" : "C5",
-      "timestamp" : 0
+      "noteName" : "C5"
     } ]
   }, {
     "index" : 37,
@@ -718,20 +649,17 @@
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "OFF",
       "noteValue" : 72,
-      "noteName" : "C5",
-      "timestamp" : 0
+      "noteName" : "C5"
     }, {
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "OFF",
       "noteValue" : 57,
-      "noteName" : "A3",
-      "timestamp" : 0
+      "noteName" : "A3"
     }, {
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "OFF",
       "noteValue" : 60,
-      "noteName" : "C4",
-      "timestamp" : 0
+      "noteName" : "C4"
     } ]
   }, {
     "index" : 38,
@@ -744,15 +672,13 @@
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "ON",
       "noteValue" : 64,
-      "noteName" : "E4",
-      "timestamp" : 0
+      "noteName" : "E4"
     }, {
       "duration" : 1500,
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "ON",
       "noteValue" : 48,
-      "noteName" : "C3",
-      "timestamp" : 0
+      "noteName" : "C3"
     } ]
   }, {
     "index" : 39,
@@ -764,8 +690,7 @@
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "OFF",
       "noteValue" : 48,
-      "noteName" : "C3",
-      "timestamp" : 0
+      "noteName" : "C3"
     } ]
   }, {
     "index" : 40,
@@ -778,15 +703,13 @@
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "ON",
       "noteValue" : 52,
-      "noteName" : "E3",
-      "timestamp" : 0
+      "noteName" : "E3"
     }, {
       "duration" : 1500,
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "ON",
       "noteValue" : 55,
-      "noteName" : "G3",
-      "timestamp" : 0
+      "noteName" : "G3"
     } ]
   }, {
     "index" : 41,
@@ -798,20 +721,17 @@
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "OFF",
       "noteValue" : 64,
-      "noteName" : "E4",
-      "timestamp" : 0
+      "noteName" : "E4"
     }, {
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "OFF",
       "noteValue" : 52,
-      "noteName" : "E3",
-      "timestamp" : 0
+      "noteName" : "E3"
     }, {
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "OFF",
       "noteValue" : 55,
-      "noteName" : "G3",
-      "timestamp" : 0
+      "noteName" : "G3"
     } ]
   }, {
     "index" : 42,
@@ -824,15 +744,13 @@
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "ON",
       "noteValue" : 74,
-      "noteName" : "D5",
-      "timestamp" : 0
+      "noteName" : "D5"
     }, {
       "duration" : 1500,
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "ON",
       "noteValue" : 50,
-      "noteName" : "D3",
-      "timestamp" : 0
+      "noteName" : "D3"
     } ]
   }, {
     "index" : 43,
@@ -844,8 +762,7 @@
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "OFF",
       "noteValue" : 50,
-      "noteName" : "D3",
-      "timestamp" : 0
+      "noteName" : "D3"
     } ]
   }, {
     "index" : 44,
@@ -858,15 +775,13 @@
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "ON",
       "noteValue" : 53,
-      "noteName" : "F3",
-      "timestamp" : 0
+      "noteName" : "F3"
     }, {
       "duration" : 1499,
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "ON",
       "noteValue" : 57,
-      "noteName" : "A3",
-      "timestamp" : 0
+      "noteName" : "A3"
     } ]
   }, {
     "index" : 45,
@@ -878,8 +793,7 @@
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "OFF",
       "noteValue" : 74,
-      "noteName" : "D5",
-      "timestamp" : 0
+      "noteName" : "D5"
     } ]
   }, {
     "index" : 46,
@@ -892,8 +806,7 @@
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "ON",
       "noteValue" : 72,
-      "noteName" : "C5",
-      "timestamp" : 0
+      "noteName" : "C5"
     } ]
   }, {
     "index" : 47,
@@ -905,20 +818,17 @@
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "OFF",
       "noteValue" : 72,
-      "noteName" : "C5",
-      "timestamp" : 0
+      "noteName" : "C5"
     }, {
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "OFF",
       "noteValue" : 53,
-      "noteName" : "F3",
-      "timestamp" : 0
+      "noteName" : "F3"
     }, {
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "OFF",
       "noteValue" : 57,
-      "noteName" : "A3",
-      "timestamp" : 0
+      "noteName" : "A3"
     } ]
   }, {
     "index" : 48,
@@ -931,15 +841,13 @@
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "ON",
       "noteValue" : 71,
-      "noteName" : "B4",
-      "timestamp" : 0
+      "noteName" : "B4"
     }, {
       "duration" : 1500,
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "ON",
       "noteValue" : 45,
-      "noteName" : "A2",
-      "timestamp" : 0
+      "noteName" : "A2"
     } ]
   }, {
     "index" : 49,
@@ -951,14 +859,12 @@
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "OFF",
       "noteValue" : 71,
-      "noteName" : "B4",
-      "timestamp" : 0
+      "noteName" : "B4"
     }, {
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "OFF",
       "noteValue" : 45,
-      "noteName" : "A2",
-      "timestamp" : 0
+      "noteName" : "A2"
     } ]
   }, {
     "index" : 50,
@@ -971,22 +877,19 @@
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "ON",
       "noteValue" : 69,
-      "noteName" : "A4",
-      "timestamp" : 0
+      "noteName" : "A4"
     }, {
       "duration" : 1500,
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "ON",
       "noteValue" : 48,
-      "noteName" : "C3",
-      "timestamp" : 0
+      "noteName" : "C3"
     }, {
       "duration" : 1500,
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "ON",
       "noteValue" : 52,
-      "noteName" : "E3",
-      "timestamp" : 0
+      "noteName" : "E3"
     } ]
   }, {
     "index" : 51,
@@ -998,20 +901,17 @@
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "OFF",
       "noteValue" : 69,
-      "noteName" : "A4",
-      "timestamp" : 0
+      "noteName" : "A4"
     }, {
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "OFF",
       "noteValue" : 48,
-      "noteName" : "C3",
-      "timestamp" : 0
+      "noteName" : "C3"
     }, {
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "OFF",
       "noteValue" : 52,
-      "noteName" : "E3",
-      "timestamp" : 0
+      "noteName" : "E3"
     } ]
   }, {
     "index" : 52,
@@ -1024,15 +924,13 @@
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "ON",
       "noteValue" : 74,
-      "noteName" : "D5",
-      "timestamp" : 0
+      "noteName" : "D5"
     }, {
       "duration" : 1500,
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "ON",
       "noteValue" : 50,
-      "noteName" : "D3",
-      "timestamp" : 0
+      "noteName" : "D3"
     } ]
   }, {
     "index" : 53,
@@ -1044,14 +942,12 @@
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "OFF",
       "noteValue" : 74,
-      "noteName" : "D5",
-      "timestamp" : 0
+      "noteName" : "D5"
     }, {
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "OFF",
       "noteValue" : 50,
-      "noteName" : "D3",
-      "timestamp" : 0
+      "noteName" : "D3"
     } ]
   }, {
     "index" : 54,
@@ -1064,22 +960,19 @@
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "ON",
       "noteValue" : 76,
-      "noteName" : "E5",
-      "timestamp" : 0
+      "noteName" : "E5"
     }, {
       "duration" : 1501,
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "ON",
       "noteValue" : 53,
-      "noteName" : "F3",
-      "timestamp" : 0
+      "noteName" : "F3"
     }, {
       "duration" : 1501,
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "ON",
       "noteValue" : 57,
-      "noteName" : "A3",
-      "timestamp" : 0
+      "noteName" : "A3"
     } ]
   }, {
     "index" : 55,
@@ -1091,8 +984,7 @@
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "OFF",
       "noteValue" : 76,
-      "noteName" : "E5",
-      "timestamp" : 0
+      "noteName" : "E5"
     } ]
   }, {
     "index" : 56,
@@ -1105,8 +997,7 @@
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "ON",
       "noteValue" : 72,
-      "noteName" : "C5",
-      "timestamp" : 0
+      "noteName" : "C5"
     } ]
   }, {
     "index" : 57,
@@ -1118,20 +1009,17 @@
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "OFF",
       "noteValue" : 72,
-      "noteName" : "C5",
-      "timestamp" : 0
+      "noteName" : "C5"
     }, {
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "OFF",
       "noteValue" : 53,
-      "noteName" : "F3",
-      "timestamp" : 0
+      "noteName" : "F3"
     }, {
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "OFF",
       "noteValue" : 57,
-      "noteName" : "A3",
-      "timestamp" : 0
+      "noteName" : "A3"
     } ]
   }, {
     "index" : 58,
@@ -1144,15 +1032,13 @@
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "ON",
       "noteValue" : 71,
-      "noteName" : "B4",
-      "timestamp" : 0
+      "noteName" : "B4"
     }, {
       "duration" : 1500,
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "ON",
       "noteValue" : 45,
-      "noteName" : "A2",
-      "timestamp" : 0
+      "noteName" : "A2"
     } ]
   }, {
     "index" : 59,
@@ -1164,14 +1050,12 @@
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "OFF",
       "noteValue" : 71,
-      "noteName" : "B4",
-      "timestamp" : 0
+      "noteName" : "B4"
     }, {
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "OFF",
       "noteValue" : 45,
-      "noteName" : "A2",
-      "timestamp" : 0
+      "noteName" : "A2"
     } ]
   }, {
     "index" : 60,
@@ -1184,22 +1068,19 @@
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "ON",
       "noteValue" : 69,
-      "noteName" : "A4",
-      "timestamp" : 0
+      "noteName" : "A4"
     }, {
       "duration" : 1500,
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "ON",
       "noteValue" : 48,
-      "noteName" : "C3",
-      "timestamp" : 0
+      "noteName" : "C3"
     }, {
       "duration" : 1500,
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "ON",
       "noteValue" : 52,
-      "noteName" : "E3",
-      "timestamp" : 0
+      "noteName" : "E3"
     } ]
   }, {
     "index" : 61,
@@ -1211,20 +1092,17 @@
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "OFF",
       "noteValue" : 69,
-      "noteName" : "A4",
-      "timestamp" : 0
+      "noteName" : "A4"
     }, {
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "OFF",
       "noteValue" : 48,
-      "noteName" : "C3",
-      "timestamp" : 0
+      "noteName" : "C3"
     }, {
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "OFF",
       "noteValue" : 52,
-      "noteName" : "E3",
-      "timestamp" : 0
+      "noteName" : "E3"
     } ]
   }, {
     "index" : 62,
@@ -1237,15 +1115,13 @@
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "ON",
       "noteValue" : 72,
-      "noteName" : "C5",
-      "timestamp" : 0
+      "noteName" : "C5"
     }, {
       "duration" : 1500,
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "ON",
       "noteValue" : 53,
-      "noteName" : "F3",
-      "timestamp" : 0
+      "noteName" : "F3"
     } ]
   }, {
     "index" : 63,
@@ -1257,8 +1133,7 @@
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "OFF",
       "noteValue" : 53,
-      "noteName" : "F3",
-      "timestamp" : 0
+      "noteName" : "F3"
     } ]
   }, {
     "index" : 64,
@@ -1271,15 +1146,13 @@
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "ON",
       "noteValue" : 57,
-      "noteName" : "A3",
-      "timestamp" : 0
+      "noteName" : "A3"
     }, {
       "duration" : 1500,
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "ON",
       "noteValue" : 60,
-      "noteName" : "C4",
-      "timestamp" : 0
+      "noteName" : "C4"
     } ]
   }, {
     "index" : 65,
@@ -1291,8 +1164,7 @@
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "OFF",
       "noteValue" : 72,
-      "noteName" : "C5",
-      "timestamp" : 0
+      "noteName" : "C5"
     } ]
   }, {
     "index" : 66,
@@ -1305,8 +1177,7 @@
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "ON",
       "noteValue" : 71,
-      "noteName" : "B4",
-      "timestamp" : 0
+      "noteName" : "B4"
     } ]
   }, {
     "index" : 67,
@@ -1318,20 +1189,17 @@
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "OFF",
       "noteValue" : 71,
-      "noteName" : "B4",
-      "timestamp" : 0
+      "noteName" : "B4"
     }, {
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "OFF",
       "noteValue" : 57,
-      "noteName" : "A3",
-      "timestamp" : 0
+      "noteName" : "A3"
     }, {
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "OFF",
       "noteValue" : 60,
-      "noteName" : "C4",
-      "timestamp" : 0
+      "noteName" : "C4"
     } ]
   }, {
     "index" : 68,
@@ -1344,15 +1212,13 @@
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "ON",
       "noteValue" : 64,
-      "noteName" : "E4",
-      "timestamp" : 0
+      "noteName" : "E4"
     }, {
       "duration" : 1500,
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "ON",
       "noteValue" : 48,
-      "noteName" : "C3",
-      "timestamp" : 0
+      "noteName" : "C3"
     } ]
   }, {
     "index" : 69,
@@ -1364,8 +1230,7 @@
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "OFF",
       "noteValue" : 48,
-      "noteName" : "C3",
-      "timestamp" : 0
+      "noteName" : "C3"
     } ]
   }, {
     "index" : 70,
@@ -1378,15 +1243,13 @@
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "ON",
       "noteValue" : 52,
-      "noteName" : "E3",
-      "timestamp" : 0
+      "noteName" : "E3"
     }, {
       "duration" : 1500,
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "ON",
       "noteValue" : 55,
-      "noteName" : "G3",
-      "timestamp" : 0
+      "noteName" : "G3"
     } ]
   }, {
     "index" : 71,
@@ -1398,20 +1261,17 @@
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "OFF",
       "noteValue" : 64,
-      "noteName" : "E4",
-      "timestamp" : 0
+      "noteName" : "E4"
     }, {
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "OFF",
       "noteValue" : 52,
-      "noteName" : "E3",
-      "timestamp" : 0
+      "noteName" : "E3"
     }, {
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "OFF",
       "noteValue" : 55,
-      "noteName" : "G3",
-      "timestamp" : 0
+      "noteName" : "G3"
     } ]
   }, {
     "index" : 72,
@@ -1424,15 +1284,13 @@
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "ON",
       "noteValue" : 72,
-      "noteName" : "C5",
-      "timestamp" : 0
+      "noteName" : "C5"
     }, {
       "duration" : 1500,
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "ON",
       "noteValue" : 53,
-      "noteName" : "F3",
-      "timestamp" : 0
+      "noteName" : "F3"
     } ]
   }, {
     "index" : 73,
@@ -1444,8 +1302,7 @@
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "OFF",
       "noteValue" : 53,
-      "noteName" : "F3",
-      "timestamp" : 0
+      "noteName" : "F3"
     } ]
   }, {
     "index" : 74,
@@ -1458,15 +1315,13 @@
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "ON",
       "noteValue" : 57,
-      "noteName" : "A3",
-      "timestamp" : 0
+      "noteName" : "A3"
     }, {
       "duration" : 1500,
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "ON",
       "noteValue" : 60,
-      "noteName" : "C4",
-      "timestamp" : 0
+      "noteName" : "C4"
     } ]
   }, {
     "index" : 75,
@@ -1478,8 +1333,7 @@
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "OFF",
       "noteValue" : 72,
-      "noteName" : "C5",
-      "timestamp" : 0
+      "noteName" : "C5"
     } ]
   }, {
     "index" : 76,
@@ -1492,8 +1346,7 @@
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "ON",
       "noteValue" : 72,
-      "noteName" : "C5",
-      "timestamp" : 0
+      "noteName" : "C5"
     } ]
   }, {
     "index" : 77,
@@ -1505,8 +1358,7 @@
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "OFF",
       "noteValue" : 72,
-      "noteName" : "C5",
-      "timestamp" : 0
+      "noteName" : "C5"
     } ]
   }, {
     "index" : 78,
@@ -1519,8 +1371,7 @@
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "ON",
       "noteValue" : 71,
-      "noteName" : "B4",
-      "timestamp" : 0
+      "noteName" : "B4"
     } ]
   }, {
     "index" : 79,
@@ -1532,20 +1383,17 @@
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "OFF",
       "noteValue" : 71,
-      "noteName" : "B4",
-      "timestamp" : 0
+      "noteName" : "B4"
     }, {
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "OFF",
       "noteValue" : 57,
-      "noteName" : "A3",
-      "timestamp" : 0
+      "noteName" : "A3"
     }, {
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "OFF",
       "noteValue" : 60,
-      "noteName" : "C4",
-      "timestamp" : 0
+      "noteName" : "C4"
     } ]
   }, {
     "index" : 80,
@@ -1558,15 +1406,13 @@
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "ON",
       "noteValue" : 64,
-      "noteName" : "E4",
-      "timestamp" : 0
+      "noteName" : "E4"
     }, {
       "duration" : 1500,
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "ON",
       "noteValue" : 48,
-      "noteName" : "C3",
-      "timestamp" : 0
+      "noteName" : "C3"
     } ]
   }, {
     "index" : 81,
@@ -1578,8 +1424,7 @@
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "OFF",
       "noteValue" : 48,
-      "noteName" : "C3",
-      "timestamp" : 0
+      "noteName" : "C3"
     } ]
   }, {
     "index" : 82,
@@ -1592,15 +1437,13 @@
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "ON",
       "noteValue" : 52,
-      "noteName" : "E3",
-      "timestamp" : 0
+      "noteName" : "E3"
     }, {
       "duration" : 1500,
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "ON",
       "noteValue" : 55,
-      "noteName" : "G3",
-      "timestamp" : 0
+      "noteName" : "G3"
     } ]
   }, {
     "index" : 83,
@@ -1612,20 +1455,17 @@
       "noteType" : "RIGHT_HAND_NOTE",
       "noteState" : "OFF",
       "noteValue" : 64,
-      "noteName" : "E4",
-      "timestamp" : 0
+      "noteName" : "E4"
     }, {
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "OFF",
       "noteValue" : 52,
-      "noteName" : "E3",
-      "timestamp" : 0
+      "noteName" : "E3"
     }, {
       "noteType" : "LEFT_HAND_BASS",
       "noteState" : "OFF",
       "noteValue" : 55,
-      "noteName" : "G3",
-      "timestamp" : 0
+      "noteName" : "G3"
     } ]
   } ],
   "sheetWidth" : 4582,
