@@ -178,6 +178,9 @@
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
+              <Fingering>
+                <text>4</text>
+                </Fingering>
               <Spanner type="Tie">
                 <Tie>
                   <up>up</up>
@@ -216,6 +219,9 @@
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
+              <Fingering>
+                <text>3</text>
+                </Fingering>
               <pitch>72</pitch>
               <tpc>14</tpc>
               </Note>
@@ -230,6 +236,9 @@
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
+              <Fingering>
+                <text>2</text>
+                </Fingering>
               <pitch>71</pitch>
               <tpc>19</tpc>
               </Note>
@@ -244,6 +253,9 @@
             <durationType>half</durationType>
             <StemDirection>up</StemDirection>
             <Note>
+              <Fingering>
+                <text>1</text>
+                </Fingering>
               <pitch>69</pitch>
               <tpc>17</tpc>
               </Note>
@@ -258,6 +270,9 @@
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
+              <Fingering>
+                <text>4</text>
+                </Fingering>
               <pitch>74</pitch>
               <tpc>16</tpc>
               </Note>
@@ -271,6 +286,9 @@
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
+              <Fingering>
+                <text>5</text>
+                </Fingering>
               <pitch>76</pitch>
               <tpc>18</tpc>
               </Note>
@@ -279,6 +297,9 @@
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
+              <Fingering>
+                <text>3</text>
+                </Fingering>
               <pitch>72</pitch>
               <tpc>14</tpc>
               </Note>
@@ -293,6 +314,9 @@
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
+              <Fingering>
+                <text>2</text>
+                </Fingering>
               <pitch>71</pitch>
               <tpc>19</tpc>
               </Note>
@@ -307,6 +331,9 @@
             <durationType>half</durationType>
             <StemDirection>up</StemDirection>
             <Note>
+              <Fingering>
+                <text>1</text>
+                </Fingering>
               <pitch>69</pitch>
               <tpc>17</tpc>
               </Note>
@@ -321,6 +348,9 @@
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
+              <Fingering>
+                <text>4</text>
+                </Fingering>
               <Spanner type="Tie">
                 <Tie>
                   <up>up</up>
@@ -359,6 +389,9 @@
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
+              <Fingering>
+                <text>3</text>
+                </Fingering>
               <pitch>71</pitch>
               <tpc>19</tpc>
               </Note>
@@ -373,6 +406,9 @@
             <durationType>half</durationType>
             <StemDirection>up</StemDirection>
             <Note>
+              <Fingering>
+                <text>1</text>
+                </Fingering>
               <Spanner type="Tie">
                 <Tie>
                   <up>down</up>
@@ -430,6 +466,9 @@
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
+              <Fingering>
+                <text>4</text>
+                </Fingering>
               <Spanner type="Tie">
                 <Tie>
                   <up>up</up>
@@ -468,6 +507,9 @@
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
+              <Fingering>
+                <text>3</text>
+                </Fingering>
               <pitch>74</pitch>
               <tpc>16</tpc>
               </Note>
@@ -476,6 +518,9 @@
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
+              <Fingering>
+                <text>2</text>
+                </Fingering>
               <pitch>72</pitch>
               <tpc>14</tpc>
               </Note>
@@ -490,6 +535,9 @@
             <durationType>half</durationType>
             <StemDirection>up</StemDirection>
             <Note>
+              <Fingering>
+                <text>1</text>
+                </Fingering>
               <Spanner type="Tie">
                 <Tie>
                   <up>down</up>
@@ -556,6 +604,9 @@
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
+              <Fingering>
+                <text>4</text>
+                </Fingering>
               <Spanner type="Tie">
                 <Tie>
                   <up>up</up>
@@ -594,6 +645,9 @@
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
+              <Fingering>
+                <text>4</text>
+                </Fingering>
               <pitch>72</pitch>
               <tpc>14</tpc>
               </Note>
@@ -602,6 +656,9 @@
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
+              <Fingering>
+                <text>3</text>
+                </Fingering>
               <pitch>71</pitch>
               <tpc>19</tpc>
               </Note>
@@ -616,6 +673,9 @@
             <durationType>half</durationType>
             <StemDirection>up</StemDirection>
             <Note>
+              <Fingering>
+                <text>1</text>
+                </Fingering>
               <Spanner type="Tie">
                 <Tie>
                   <up>down</up>
@@ -674,6 +734,9 @@
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
+              <Fingering>
+                <text>5</text>
+                </Fingering>
               <pitch>50</pitch>
               <tpc>16</tpc>
               </Note>
@@ -687,10 +750,16 @@
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
+              <Fingering>
+                <text>3</text>
+                </Fingering>
               <pitch>53</pitch>
               <tpc>13</tpc>
               </Note>
             <Note>
+              <Fingering>
+                <text>1</text>
+                </Fingering>
               <pitch>57</pitch>
               <tpc>17</tpc>
               </Note>
@@ -704,6 +773,9 @@
             <durationType>half</durationType>
             <StemDirection>up</StemDirection>
             <Note>
+              <Fingering>
+                <text>5</text>
+                </Fingering>
               <pitch>45</pitch>
               <tpc>17</tpc>
               </Note>
@@ -717,10 +789,16 @@
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
+              <Fingering>
+                <text>3</text>
+                </Fingering>
               <pitch>48</pitch>
               <tpc>14</tpc>
               </Note>
             <Note>
+              <Fingering>
+                <text>1</text>
+                </Fingering>
               <pitch>52</pitch>
               <tpc>18</tpc>
               </Note>
@@ -734,6 +812,9 @@
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
+              <Fingering>
+                <text>5</text>
+                </Fingering>
               <pitch>50</pitch>
               <tpc>16</tpc>
               </Note>
@@ -747,10 +828,16 @@
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
+              <Fingering>
+                <text>3</text>
+                </Fingering>
               <pitch>53</pitch>
               <tpc>13</tpc>
               </Note>
             <Note>
+              <Fingering>
+                <text>1</text>
+                </Fingering>
               <pitch>57</pitch>
               <tpc>17</tpc>
               </Note>
@@ -764,6 +851,9 @@
             <durationType>half</durationType>
             <StemDirection>up</StemDirection>
             <Note>
+              <Fingering>
+                <text>5</text>
+                </Fingering>
               <pitch>45</pitch>
               <tpc>17</tpc>
               </Note>
@@ -777,10 +867,16 @@
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
+              <Fingering>
+                <text>3</text>
+                </Fingering>
               <pitch>48</pitch>
               <tpc>14</tpc>
               </Note>
             <Note>
+              <Fingering>
+                <text>1</text>
+                </Fingering>
               <pitch>52</pitch>
               <tpc>18</tpc>
               </Note>
@@ -794,6 +890,9 @@
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
+              <Fingering>
+                <text>5</text>
+                </Fingering>
               <pitch>53</pitch>
               <tpc>13</tpc>
               </Note>
@@ -807,10 +906,16 @@
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
+              <Fingering>
+                <text>3</text>
+                </Fingering>
               <pitch>57</pitch>
               <tpc>17</tpc>
               </Note>
             <Note>
+              <Fingering>
+                <text>1</text>
+                </Fingering>
               <pitch>60</pitch>
               <tpc>14</tpc>
               </Note>
@@ -824,6 +929,9 @@
             <durationType>half</durationType>
             <StemDirection>up</StemDirection>
             <Note>
+              <Fingering>
+                <text>5</text>
+                </Fingering>
               <pitch>48</pitch>
               <tpc>14</tpc>
               </Note>
@@ -837,10 +945,16 @@
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
+              <Fingering>
+                <text>3</text>
+                </Fingering>
               <pitch>52</pitch>
               <tpc>18</tpc>
               </Note>
             <Note>
+              <Fingering>
+                <text>1</text>
+                </Fingering>
               <pitch>55</pitch>
               <tpc>15</tpc>
               </Note>
@@ -854,6 +968,9 @@
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
+              <Fingering>
+                <text>5</text>
+                </Fingering>
               <pitch>53</pitch>
               <tpc>13</tpc>
               </Note>
@@ -867,10 +984,16 @@
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
+              <Fingering>
+                <text>3</text>
+                </Fingering>
               <pitch>57</pitch>
               <tpc>17</tpc>
               </Note>
             <Note>
+              <Fingering>
+                <text>1</text>
+                </Fingering>
               <pitch>60</pitch>
               <tpc>14</tpc>
               </Note>
@@ -884,6 +1007,9 @@
             <durationType>half</durationType>
             <StemDirection>up</StemDirection>
             <Note>
+              <Fingering>
+                <text>5</text>
+                </Fingering>
               <pitch>48</pitch>
               <tpc>14</tpc>
               </Note>
@@ -897,10 +1023,16 @@
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
+              <Fingering>
+                <text>3</text>
+                </Fingering>
               <pitch>52</pitch>
               <tpc>18</tpc>
               </Note>
             <Note>
+              <Fingering>
+                <text>1</text>
+                </Fingering>
               <pitch>55</pitch>
               <tpc>15</tpc>
               </Note>
@@ -914,6 +1046,9 @@
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
+              <Fingering>
+                <text>5</text>
+                </Fingering>
               <pitch>53</pitch>
               <tpc>13</tpc>
               </Note>
@@ -927,10 +1062,16 @@
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
+              <Fingering>
+                <text>3</text>
+                </Fingering>
               <pitch>57</pitch>
               <tpc>17</tpc>
               </Note>
             <Note>
+              <Fingering>
+                <text>1</text>
+                </Fingering>
               <pitch>60</pitch>
               <tpc>14</tpc>
               </Note>
@@ -944,6 +1085,9 @@
             <durationType>half</durationType>
             <StemDirection>up</StemDirection>
             <Note>
+              <Fingering>
+                <text>5</text>
+                </Fingering>
               <pitch>48</pitch>
               <tpc>14</tpc>
               </Note>
@@ -957,10 +1101,16 @@
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
+              <Fingering>
+                <text>3</text>
+                </Fingering>
               <pitch>52</pitch>
               <tpc>18</tpc>
               </Note>
             <Note>
+              <Fingering>
+                <text>1</text>
+                </Fingering>
               <pitch>55</pitch>
               <tpc>15</tpc>
               </Note>
