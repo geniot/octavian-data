@@ -195,10 +195,6 @@
             <sigN>3</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <StaffText>
-            <placement>below</placement>
-            <text><font size="14.8819"></font>Умеренно</text>
-            </StaffText>
           <Tempo>
             <tempo>1.5</tempo>
             <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 90</b></text>
@@ -2814,6 +2810,11 @@
         </Measure>
       <Measure>
         <endRepeat>2</endRepeat>
+        <Marker>
+          <style>Repeat Text Right</style>
+          <text>Fine</text>
+          <label>fine</label>
+          </Marker>
         <voice>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -6281,6 +6282,13 @@
         </Measure>
       <Measure>
         <endRepeat>2</endRepeat>
+        <Jump>
+          <style>Repeat Text Right</style>
+          <text>D.C. al Fine</text>
+          <jumpTo>start</jumpTo>
+          <playUntil>fine</playUntil>
+          <continueAt></continueAt>
+          </Jump>
         <voice>
           <Spanner type="HairPin">
             <HairPin>
@@ -9430,11 +9438,6 @@
             <placement>below</placement>
             <text><font size="11.0064"></font>Б</text>
             </StaffText>
-          <StaffText>
-            <italic>1</italic>
-            <offset x="15.2726" y="-4.51485"/>
-            <text>Конец</text>
-            </StaffText>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
@@ -11913,11 +11916,6 @@
             <minDistance>-6.33799</minDistance>
             <offset x="-0.17761" y="5.36215"/>
             <text><font size="11.0064"></font>М</text>
-            </StaffText>
-          <StaffText>
-            <minDistance>-999</minDistance>
-            <offset x="-9.09751" y="-3.11137"/>
-            <text>Повторить с начала до слова &quot;Конец&quot;</text>
             </StaffText>
           <Beam>
             <StemDirection>down</StemDirection>
