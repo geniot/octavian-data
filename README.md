@@ -12,6 +12,6 @@ Currently, the repository contains files of the following types:
 - png - 250x250 cover image
 - txt - fingering files in the [special format](https://github.com/geniot/octavian-docs/wiki/Fingering-File-Format)
 
-If you found a place in the notation that needs to be fixed, please create a pull request. Consider it a bug.
+If you found an error in a tune, like a false note or incorrect notation, please create a pull request. Consider it a bug.
 
 You can also submit your own sheet music and fingering files. All contributions are welcome. 
