@@ -99,6 +99,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="21"/>
           <controller ctrl="10" value="63"/>
@@ -163,6 +164,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="21"/>
           <controller ctrl="10" value="63"/>
@@ -175,8 +177,8 @@
         <height>3.5</height>
         <Text>
           <style>Title</style>
-          <text><font size="22.0128"/>Барыня
-Рясская народная пляска</text>
+          <text><font size="22.0128"/>Barynya
+Russian Folk Dance</text>
           </Text>
         </VBox>
       <Measure>
@@ -195,12 +197,12 @@
             </Dynamic>
           <StaffText>
             <placement>below</placement>
-            <text><font size="14.8819"/>Весело</text>
+            <text><font size="14.8819"></font>Весело</text>
             </StaffText>
           <Tempo>
             <tempo>1.5</tempo>
             <followText>1</followText>
-            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 90</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 90</b></text>
             </Tempo>
           <Chord>
             <durationType>quarter</durationType>
@@ -1912,6 +1914,7 @@
             </Rest>
           <BarLine>
             <subtype>double</subtype>
+            <span>1</span>
             </BarLine>
           </voice>
         </Measure>
@@ -3194,7 +3197,7 @@
             </TimeSig>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>Б</text>
+            <text><font size="10.0763"></font>Б</text>
             </StaffText>
           <Chord>
             <durationType>quarter</durationType>
@@ -3218,7 +3221,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>7</text>
+            <text><font size="10.0763"></font>7</text>
             </StaffText>
           <Chord>
             <durationType>quarter</durationType>
@@ -3257,7 +3260,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>Б</text>
+            <text><font size="10.0763"></font>Б</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -3277,7 +3280,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>Б</text>
+            <text><font size="10.0763"></font>Б</text>
             </StaffText>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -3320,7 +3323,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>Б</text>
+            <text><font size="10.0763"></font>Б</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -3351,7 +3354,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>7</text>
+            <text><font size="10.0763"></font>7</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -3386,7 +3389,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>Б</text>
+            <text><font size="10.0763"></font>Б</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -3417,7 +3420,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>Б</text>
+            <text><font size="10.0763"></font>Б</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -3452,7 +3455,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>Б</text>
+            <text><font size="10.0763"></font>Б</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -3483,7 +3486,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>7</text>
+            <text><font size="10.0763"></font>7</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -3518,7 +3521,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>Б</text>
+            <text><font size="10.0763"></font>Б</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -3549,7 +3552,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>Б</text>
+            <text><font size="10.0763"></font>Б</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -3584,7 +3587,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>Б</text>
+            <text><font size="10.0763"></font>Б</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -3604,7 +3607,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>Б</text>
+            <text><font size="10.0763"></font>Б</text>
             </StaffText>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -3647,7 +3650,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>Б</text>
+            <text><font size="10.0763"></font>Б</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -3678,7 +3681,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>7</text>
+            <text><font size="10.0763"></font>7</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -3713,7 +3716,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>Б</text>
+            <text><font size="10.0763"></font>Б</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -3744,7 +3747,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>Б</text>
+            <text><font size="10.0763"></font>Б</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -3779,7 +3782,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>Б</text>
+            <text><font size="10.0763"></font>Б</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -3810,7 +3813,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>7</text>
+            <text><font size="10.0763"></font>7</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -3845,7 +3848,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>Б</text>
+            <text><font size="10.0763"></font>Б</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -3876,7 +3879,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>Б</text>
+            <text><font size="10.0763"></font>Б</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -3911,7 +3914,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>Б</text>
+            <text><font size="10.0763"></font>Б</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -3942,7 +3945,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>Б</text>
+            <text><font size="10.0763"></font>Б</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -3977,7 +3980,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>Б</text>
+            <text><font size="10.0763"></font>Б</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -4008,7 +4011,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>Б</text>
+            <text><font size="10.0763"></font>Б</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -4043,7 +4046,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>Б</text>
+            <text><font size="10.0763"></font>Б</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -4074,7 +4077,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>7</text>
+            <text><font size="10.0763"></font>7</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -4109,7 +4112,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>Б</text>
+            <text><font size="10.0763"></font>Б</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -4140,7 +4143,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>Б</text>
+            <text><font size="10.0763"></font>Б</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -4175,7 +4178,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>Б</text>
+            <text><font size="10.0763"></font>Б</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -4206,7 +4209,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>7</text>
+            <text><font size="10.0763"></font>7</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -4241,7 +4244,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>Б</text>
+            <text><font size="10.0763"></font>Б</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -4272,7 +4275,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>Б</text>
+            <text><font size="10.0763"></font>Б</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -4307,7 +4310,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>Б</text>
+            <text><font size="10.0763"></font>Б</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -4338,7 +4341,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>7</text>
+            <text><font size="10.0763"></font>7</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -4373,7 +4376,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>Б</text>
+            <text><font size="10.0763"></font>Б</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -4404,7 +4407,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>Б</text>
+            <text><font size="10.0763"></font>Б</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -4439,7 +4442,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>Б</text>
+            <text><font size="10.0763"></font>Б</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -4470,7 +4473,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>7</text>
+            <text><font size="10.0763"></font>7</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -4505,7 +4508,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>Б</text>
+            <text><font size="10.0763"></font>Б</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -4536,7 +4539,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>Б</text>
+            <text><font size="10.0763"></font>Б</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -4571,7 +4574,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>Б</text>
+            <text><font size="10.0763"></font>Б</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -4602,7 +4605,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>7</text>
+            <text><font size="10.0763"></font>7</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -4612,8 +4615,8 @@
               <tpc>15</tpc>
               </Note>
             <Note>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
+              <pitch>59</pitch>
+              <tpc>19</tpc>
               </Note>
             <Note>
               <pitch>65</pitch>
@@ -4637,7 +4640,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>Б</text>
+            <text><font size="10.0763"></font>Б</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -4668,7 +4671,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>Б</text>
+            <text><font size="10.0763"></font>Б</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -4703,7 +4706,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>Б</text>
+            <text><font size="10.0763"></font>Б</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -4723,7 +4726,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>Б</text>
+            <text><font size="10.0763"></font>Б</text>
             </StaffText>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -4748,7 +4751,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="11.9365"/><i>Конец</i></text>
+            <text><font size="11.9365"></font><i>Конец</i></text>
             </StaffText>
           <Rest>
             <durationType>eighth</durationType>
@@ -4766,7 +4769,7 @@
             </KeySig>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>Б</text>
+            <text><font size="10.0763"></font>Б</text>
             </StaffText>
           <Chord>
             <durationType>quarter</durationType>
@@ -4790,7 +4793,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>7</text>
+            <text><font size="10.0763"></font>7</text>
             </StaffText>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -4833,7 +4836,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>Б</text>
+            <text><font size="10.0763"></font>Б</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -4864,7 +4867,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>Б</text>
+            <text><font size="10.0763"></font>Б</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -4899,7 +4902,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>Б</text>
+            <text><font size="10.0763"></font>Б</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -4930,7 +4933,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>7</text>
+            <text><font size="10.0763"></font>7</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -4965,7 +4968,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>Б</text>
+            <text><font size="10.0763"></font>Б</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -4996,7 +4999,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>Б</text>
+            <text><font size="10.0763"></font>Б</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -5031,7 +5034,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>Б</text>
+            <text><font size="10.0763"></font>Б</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -5062,7 +5065,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>7</text>
+            <text><font size="10.0763"></font>7</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -5097,7 +5100,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>Б</text>
+            <text><font size="10.0763"></font>Б</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -5128,7 +5131,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>Б</text>
+            <text><font size="10.0763"></font>Б</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -5163,7 +5166,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>Б</text>
+            <text><font size="10.0763"></font>Б</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -5194,7 +5197,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>7</text>
+            <text><font size="10.0763"></font>7</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -5229,7 +5232,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>Б</text>
+            <text><font size="10.0763"></font>Б</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -5249,7 +5252,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>Б</text>
+            <text><font size="10.0763"></font>Б</text>
             </StaffText>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -5292,7 +5295,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>Б</text>
+            <text><font size="10.0763"></font>Б</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -5323,7 +5326,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>7</text>
+            <text><font size="10.0763"></font>7</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -5358,7 +5361,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>Б</text>
+            <text><font size="10.0763"></font>Б</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -5389,7 +5392,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>Б</text>
+            <text><font size="10.0763"></font>Б</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -5424,7 +5427,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>Б</text>
+            <text><font size="10.0763"></font>Б</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -5455,7 +5458,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>7</text>
+            <text><font size="10.0763"></font>7</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -5490,7 +5493,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>Б</text>
+            <text><font size="10.0763"></font>Б</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -5521,7 +5524,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>Б</text>
+            <text><font size="10.0763"></font>Б</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -5556,7 +5559,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>Б</text>
+            <text><font size="10.0763"></font>Б</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -5587,7 +5590,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>7</text>
+            <text><font size="10.0763"></font>7</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -5622,7 +5625,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>Б</text>
+            <text><font size="10.0763"></font>Б</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -5653,7 +5656,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>Б</text>
+            <text><font size="10.0763"></font>Б</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -5688,7 +5691,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>Б</text>
+            <text><font size="10.0763"></font>Б</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -5719,7 +5722,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <text><font size="10.0763"/>7</text>
+            <text><font size="10.0763"></font>7</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -5744,7 +5747,7 @@
           <StaffText>
             <placement>below</placement>
             <offset x="22.2031" y="8.06099"/>
-            <text><font size="11.9365"/>Играть от знака до слова &quot;Конец&quot;</text>
+            <text><font size="11.9365"></font>Играть от знака до слова &quot;Конец&quot;</text>
             </StaffText>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -5761,7 +5764,7 @@
             <placement>below</placement>
             <minDistance>-12.3168</minDistance>
             <offset x="0.158233" y="4.9984"/>
-            <text><font size="10.0763"/>Б</text>
+            <text><font size="10.0763"></font>Б</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -5794,7 +5797,7 @@
             <placement>below</placement>
             <minDistance>-13.7409</minDistance>
             <offset x="0" y="3.57431"/>
-            <text><font size="10.0763"/>Б</text>
+            <text><font size="10.0763"></font>Б</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -5831,7 +5834,7 @@
             <placement>below</placement>
             <minDistance>-11.051</minDistance>
             <offset x="-0.474698" y="4.9984"/>
-            <text><font size="10.0763"/>Б</text>
+            <text><font size="10.0763"></font>Б</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -5853,7 +5856,7 @@
             <placement>below</placement>
             <minDistance>-11.051</minDistance>
             <offset x="0.158233" y="4.9984"/>
-            <text><font size="10.0763"/>Б</text>
+            <text><font size="10.0763"></font>Б</text>
             </StaffText>
           <Chord>
             <BeamMode>no</BeamMode>
