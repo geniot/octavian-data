@@ -172,7 +172,7 @@
         <bar-style>heavy-light</bar-style>
         <repeat direction="forward"/>
         </barline>
-      <note default-x="31.36" default-y="-15">
+      <note id="reh" default-x="31.36" default-y="-15">
         <pitch>
           <step>C</step>
           <octave>5</octave>
